@@ -1,21 +1,25 @@
+
 class Solution {
 public:
+
     string addBinary(string a, string b) {
-        string ans;
-        int asz=a.size()-1;
-        int bsz=b.size()-1;
+        
+        int a_size=a.size()-1;
+        int b_size=b.size()-1;
         int carry=0;
-        while(asz>=0||bsz>=0||carry){
-            if(asz>=0){
-                carry+=a[asz--]-'0';//string to integer
-            }
-            if(bsz>=0){
-                carry+=b[bsz--]-'0';
-            }
-           ans+=carry%2+'0';//integer to string
-           carry/=2;
+        string sum;
+        while(a_size>=0||b_size>=0||carry){
+               if(a_size>=0){
+                carry+=a[a_size--]-'0';
+               }
+               if(b_size>=0){
+                carry+=b[b_size--]-'0';
+               }
+               sum+=carry%2+'0';
+               carry/=2;
         }
-        reverse(ans.begin(),ans.end());
-        return ans;
+        reverse(sum.begin(),sum.end());
+        return sum;
+        
     }
 };
