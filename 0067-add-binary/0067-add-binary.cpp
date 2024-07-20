@@ -7,12 +7,12 @@ public:
         int carry=0;
         while(asz>=0||bsz>=0||carry){
             if(asz>=0){
-                carry+=a[asz--]-'0';
+                carry+=a[asz--]-'0';//string to integer
             }
             if(bsz>=0){
                 carry+=b[bsz--]-'0';
             }
-           ans+=carry%2+'0';
+           ans+=carry%2+'0';//integer to string
            carry/=2;
         }
         reverse(ans.begin(),ans.end());
