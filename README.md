@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/VIJAYKUMAR2435/-CrackYourPlacement/tree/master/0287-find-the-duplicate-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/VIJAYKUMAR2435/-CrackYourPlacement/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/VIJAYKUMAR2435/-CrackYourPlacement/tree/master/0496-next-greater-element-i) |
+| [0628-maximum-product-of-three-numbers](https://github.com/VIJAYKUMAR2435/-CrackYourPlacement/tree/master/0628-maximum-product-of-three-numbers) |
 | [1207-delete-nodes-and-return-forest](https://github.com/VIJAYKUMAR2435/-CrackYourPlacement/tree/master/1207-delete-nodes-and-return-forest) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/VIJAYKUMAR2435/-CrackYourPlacement/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/VIJAYKUMAR2435/-CrackYourPlacement/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/VIJAYKUMAR2435/-CrackYourPlacement/tree/master/0018-4sum) |
 | [0075-sort-colors](https://github.com/VIJAYKUMAR2435/-CrackYourPlacement/tree/master/0075-sort-colors) |
 | [0215-kth-largest-element-in-an-array](https://github.com/VIJAYKUMAR2435/-CrackYourPlacement/tree/master/0215-kth-largest-element-in-an-array) |
+| [0628-maximum-product-of-three-numbers](https://github.com/VIJAYKUMAR2435/-CrackYourPlacement/tree/master/0628-maximum-product-of-three-numbers) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -165,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0012-integer-to-roman](https://github.com/VIJAYKUMAR2435/-CrackYourPlacement/tree/master/0012-integer-to-roman) |
 | [0070-climbing-stairs](https://github.com/VIJAYKUMAR2435/-CrackYourPlacement/tree/master/0070-climbing-stairs) |
+| [0628-maximum-product-of-three-numbers](https://github.com/VIJAYKUMAR2435/-CrackYourPlacement/tree/master/0628-maximum-product-of-three-numbers) |
 ## Divide and Conquer
 |  |
 | ------- |
