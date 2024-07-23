@@ -11,23 +11,30 @@
 class Solution {
 public:
     ListNode* removeElements(ListNode* head, int val) {
-        if(head==nullptr) return head;
-		// This is for the case when a linked list is like this: 
-		// 1->1->2->null , val = 1
-		// 1->1->1->null , val = 1
-        while(head!=nullptr && head->val==val){
-            head = head->next;
+        // if(head==NULL){
+        //     return NULL;
+        // }
+        // if(head->val==val){
+        //     return removeElements(head->next,val);
+        // }
+        // head->next=removeElements(head->next,val);
+        // return head;
+        if(head==NULL){
+            return NULL;
         }
-        ListNode* curr = head;
-        while(curr!=nullptr  && curr->next!=nullptr){
-            if(curr->next->val==val){
-                curr->next = curr->next->next;
-				// After doing the above step, I am not updating "curr" because of these type of test cases:
-				// 1->2->3->6->6->6->5->null  val = 6
+        while(head!=NULL && head->val==val){
+            head=head->next;
+        }
+        ListNode*ptr=head;
+        while(ptr && ptr->next){
+            if(ptr->next->val==val){
+                ptr->next=ptr->next->next;
             }
-            else
-                curr = curr->next;
+            else{
+                ptr=ptr->next;
+            }
         }
-        return head;
+          return head;
     }
+    
 };
