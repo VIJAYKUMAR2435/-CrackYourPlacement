@@ -164,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/VIJAYKUMAR2435/-CrackYourPlacement/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0141-linked-list-cycle](https://github.com/VIJAYKUMAR2435/-CrackYourPlacement/tree/master/0141-linked-list-cycle) |
+| [0203-remove-linked-list-elements](https://github.com/VIJAYKUMAR2435/-CrackYourPlacement/tree/master/0203-remove-linked-list-elements) |
 | [0908-middle-of-the-linked-list](https://github.com/VIJAYKUMAR2435/-CrackYourPlacement/tree/master/0908-middle-of-the-linked-list) |
 ## Depth-First Search
 |  |
@@ -274,4 +275,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/VIJAYKUMAR2435/-CrackYourPlacement/tree/master/0062-unique-paths) |
+## Recursion
+|  |
+| ------- |
+| [0203-remove-linked-list-elements](https://github.com/VIJAYKUMAR2435/-CrackYourPlacement/tree/master/0203-remove-linked-list-elements) |
 <!---LeetCode Topics End-->
