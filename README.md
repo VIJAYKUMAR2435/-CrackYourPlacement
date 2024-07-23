@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1207-delete-nodes-and-return-forest](https://github.com/VIJAYKUMAR2435/-CrackYourPlacement/tree/master/1207-delete-nodes-and-return-forest) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/VIJAYKUMAR2435/-CrackYourPlacement/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/VIJAYKUMAR2435/-CrackYourPlacement/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
+| [1741-sort-array-by-increasing-frequency](https://github.com/VIJAYKUMAR2435/-CrackYourPlacement/tree/master/1741-sort-array-by-increasing-frequency) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/VIJAYKUMAR2435/-CrackYourPlacement/tree/master/2306-create-binary-tree-from-descriptions) |
 | [2472-build-a-matrix-with-conditions](https://github.com/VIJAYKUMAR2435/-CrackYourPlacement/tree/master/2472-build-a-matrix-with-conditions) |
 | [2502-sort-the-people](https://github.com/VIJAYKUMAR2435/-CrackYourPlacement/tree/master/2502-sort-the-people) |
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/VIJAYKUMAR2435/-CrackYourPlacement/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/VIJAYKUMAR2435/-CrackYourPlacement/tree/master/0628-maximum-product-of-three-numbers) |
 | [1014-k-closest-points-to-origin](https://github.com/VIJAYKUMAR2435/-CrackYourPlacement/tree/master/1014-k-closest-points-to-origin) |
+| [1741-sort-array-by-increasing-frequency](https://github.com/VIJAYKUMAR2435/-CrackYourPlacement/tree/master/1741-sort-array-by-increasing-frequency) |
 | [2502-sort-the-people](https://github.com/VIJAYKUMAR2435/-CrackYourPlacement/tree/master/2502-sort-the-people) |
 ## Dynamic Programming
 |  |
@@ -94,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0442-find-all-duplicates-in-an-array](https://github.com/VIJAYKUMAR2435/-CrackYourPlacement/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/VIJAYKUMAR2435/-CrackYourPlacement/tree/master/0496-next-greater-element-i) |
 | [1207-delete-nodes-and-return-forest](https://github.com/VIJAYKUMAR2435/-CrackYourPlacement/tree/master/1207-delete-nodes-and-return-forest) |
+| [1741-sort-array-by-increasing-frequency](https://github.com/VIJAYKUMAR2435/-CrackYourPlacement/tree/master/1741-sort-array-by-increasing-frequency) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/VIJAYKUMAR2435/-CrackYourPlacement/tree/master/2306-create-binary-tree-from-descriptions) |
 | [2502-sort-the-people](https://github.com/VIJAYKUMAR2435/-CrackYourPlacement/tree/master/2502-sort-the-people) |
 ## Tree
