@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1496-lucky-numbers-in-a-matrix](https://github.com/VIJAYKUMAR2435/-CrackYourPlacement/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/VIJAYKUMAR2435/-CrackYourPlacement/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/VIJAYKUMAR2435/-CrackYourPlacement/tree/master/1741-sort-array-by-increasing-frequency) |
+| [1792-find-the-most-competitive-subsequence](https://github.com/VIJAYKUMAR2435/-CrackYourPlacement/tree/master/1792-find-the-most-competitive-subsequence) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/VIJAYKUMAR2435/-CrackYourPlacement/tree/master/2306-create-binary-tree-from-descriptions) |
 | [2472-build-a-matrix-with-conditions](https://github.com/VIJAYKUMAR2435/-CrackYourPlacement/tree/master/2472-build-a-matrix-with-conditions) |
 | [2502-sort-the-people](https://github.com/VIJAYKUMAR2435/-CrackYourPlacement/tree/master/2502-sort-the-people) |
@@ -135,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/VIJAYKUMAR2435/-CrackYourPlacement/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0680-valid-palindrome-ii](https://github.com/VIJAYKUMAR2435/-CrackYourPlacement/tree/master/0680-valid-palindrome-ii) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/VIJAYKUMAR2435/-CrackYourPlacement/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
+| [1792-find-the-most-competitive-subsequence](https://github.com/VIJAYKUMAR2435/-CrackYourPlacement/tree/master/1792-find-the-most-competitive-subsequence) |
 ## String
 |  |
 | ------- |
@@ -157,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0739-daily-temperatures](https://github.com/VIJAYKUMAR2435/-CrackYourPlacement/tree/master/0739-daily-temperatures) |
 | [0874-backspace-string-compare](https://github.com/VIJAYKUMAR2435/-CrackYourPlacement/tree/master/0874-backspace-string-compare) |
 | [0937-online-stock-span](https://github.com/VIJAYKUMAR2435/-CrackYourPlacement/tree/master/0937-online-stock-span) |
+| [1792-find-the-most-competitive-subsequence](https://github.com/VIJAYKUMAR2435/-CrackYourPlacement/tree/master/1792-find-the-most-competitive-subsequence) |
 ## String Matching
 |  |
 | ------- |
@@ -224,6 +227,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/VIJAYKUMAR2435/-CrackYourPlacement/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/VIJAYKUMAR2435/-CrackYourPlacement/tree/master/0739-daily-temperatures) |
 | [0937-online-stock-span](https://github.com/VIJAYKUMAR2435/-CrackYourPlacement/tree/master/0937-online-stock-span) |
+| [1792-find-the-most-competitive-subsequence](https://github.com/VIJAYKUMAR2435/-CrackYourPlacement/tree/master/1792-find-the-most-competitive-subsequence) |
 ## Math
 |  |
 | ------- |
