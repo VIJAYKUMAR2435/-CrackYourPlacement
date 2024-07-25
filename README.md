@@ -156,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/VIJAYKUMAR2435/-CrackYourPlacement/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0049-group-anagrams](https://github.com/VIJAYKUMAR2435/-CrackYourPlacement/tree/master/0049-group-anagrams) |
 | [0067-add-binary](https://github.com/VIJAYKUMAR2435/-CrackYourPlacement/tree/master/0067-add-binary) |
+| [0227-basic-calculator-ii](https://github.com/VIJAYKUMAR2435/-CrackYourPlacement/tree/master/0227-basic-calculator-ii) |
 | [0680-valid-palindrome-ii](https://github.com/VIJAYKUMAR2435/-CrackYourPlacement/tree/master/0680-valid-palindrome-ii) |
 | [0874-backspace-string-compare](https://github.com/VIJAYKUMAR2435/-CrackYourPlacement/tree/master/0874-backspace-string-compare) |
 | [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/VIJAYKUMAR2435/-CrackYourPlacement/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
@@ -165,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/VIJAYKUMAR2435/-CrackYourPlacement/tree/master/0020-valid-parentheses) |
 | [0225-implement-stack-using-queues](https://github.com/VIJAYKUMAR2435/-CrackYourPlacement/tree/master/0225-implement-stack-using-queues) |
+| [0227-basic-calculator-ii](https://github.com/VIJAYKUMAR2435/-CrackYourPlacement/tree/master/0227-basic-calculator-ii) |
 | [0232-implement-queue-using-stacks](https://github.com/VIJAYKUMAR2435/-CrackYourPlacement/tree/master/0232-implement-queue-using-stacks) |
 | [0496-next-greater-element-i](https://github.com/VIJAYKUMAR2435/-CrackYourPlacement/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/VIJAYKUMAR2435/-CrackYourPlacement/tree/master/0739-daily-temperatures) |
@@ -248,6 +250,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0062-unique-paths](https://github.com/VIJAYKUMAR2435/-CrackYourPlacement/tree/master/0062-unique-paths) |
 | [0067-add-binary](https://github.com/VIJAYKUMAR2435/-CrackYourPlacement/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/VIJAYKUMAR2435/-CrackYourPlacement/tree/master/0070-climbing-stairs) |
+| [0227-basic-calculator-ii](https://github.com/VIJAYKUMAR2435/-CrackYourPlacement/tree/master/0227-basic-calculator-ii) |
 | [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/VIJAYKUMAR2435/-CrackYourPlacement/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/VIJAYKUMAR2435/-CrackYourPlacement/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/VIJAYKUMAR2435/-CrackYourPlacement/tree/master/0628-maximum-product-of-three-numbers) |
