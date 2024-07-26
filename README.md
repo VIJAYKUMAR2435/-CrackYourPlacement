@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/VIJAYKUMAR2435/-CrackYourPlacement/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/VIJAYKUMAR2435/-CrackYourPlacement/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0039-combination-sum](https://github.com/VIJAYKUMAR2435/-CrackYourPlacement/tree/master/0039-combination-sum) |
+| [0040-combination-sum-ii](https://github.com/VIJAYKUMAR2435/-CrackYourPlacement/tree/master/0040-combination-sum-ii) |
 | [0048-rotate-image](https://github.com/VIJAYKUMAR2435/-CrackYourPlacement/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/VIJAYKUMAR2435/-CrackYourPlacement/tree/master/0049-group-anagrams) |
 | [0054-spiral-matrix](https://github.com/VIJAYKUMAR2435/-CrackYourPlacement/tree/master/0054-spiral-matrix) |
@@ -337,4 +338,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0039-combination-sum](https://github.com/VIJAYKUMAR2435/-CrackYourPlacement/tree/master/0039-combination-sum) |
+| [0040-combination-sum-ii](https://github.com/VIJAYKUMAR2435/-CrackYourPlacement/tree/master/0040-combination-sum-ii) |
 <!---LeetCode Topics End-->
