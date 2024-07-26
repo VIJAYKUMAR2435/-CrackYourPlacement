@@ -341,5 +341,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0039-combination-sum](https://github.com/VIJAYKUMAR2435/-CrackYourPlacement/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/VIJAYKUMAR2435/-CrackYourPlacement/tree/master/0040-combination-sum-ii) |
+| [0077-combinations](https://github.com/VIJAYKUMAR2435/-CrackYourPlacement/tree/master/0077-combinations) |
 | [0090-subsets-ii](https://github.com/VIJAYKUMAR2435/-CrackYourPlacement/tree/master/0090-subsets-ii) |
 <!---LeetCode Topics End-->
