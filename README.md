@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/VIJAYKUMAR2435/-CrackYourPlacement/tree/master/0088-merge-sorted-array) |
 | [0141-linked-list-cycle](https://github.com/VIJAYKUMAR2435/-CrackYourPlacement/tree/master/0141-linked-list-cycle) |
 | [0151-reverse-words-in-a-string](https://github.com/VIJAYKUMAR2435/-CrackYourPlacement/tree/master/0151-reverse-words-in-a-string) |
+| [0160-intersection-of-two-linked-lists](https://github.com/VIJAYKUMAR2435/-CrackYourPlacement/tree/master/0160-intersection-of-two-linked-lists) |
 | [0283-move-zeroes](https://github.com/VIJAYKUMAR2435/-CrackYourPlacement/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/VIJAYKUMAR2435/-CrackYourPlacement/tree/master/0287-find-the-duplicate-number) |
 | [0680-valid-palindrome-ii](https://github.com/VIJAYKUMAR2435/-CrackYourPlacement/tree/master/0680-valid-palindrome-ii) |
@@ -116,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/VIJAYKUMAR2435/-CrackYourPlacement/tree/master/0012-integer-to-roman) |
 | [0049-group-anagrams](https://github.com/VIJAYKUMAR2435/-CrackYourPlacement/tree/master/0049-group-anagrams) |
 | [0141-linked-list-cycle](https://github.com/VIJAYKUMAR2435/-CrackYourPlacement/tree/master/0141-linked-list-cycle) |
+| [0160-intersection-of-two-linked-lists](https://github.com/VIJAYKUMAR2435/-CrackYourPlacement/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/VIJAYKUMAR2435/-CrackYourPlacement/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/VIJAYKUMAR2435/-CrackYourPlacement/tree/master/0347-top-k-frequent-elements) |
 | [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/VIJAYKUMAR2435/-CrackYourPlacement/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
@@ -197,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0021-merge-two-sorted-lists](https://github.com/VIJAYKUMAR2435/-CrackYourPlacement/tree/master/0021-merge-two-sorted-lists) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/VIJAYKUMAR2435/-CrackYourPlacement/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0141-linked-list-cycle](https://github.com/VIJAYKUMAR2435/-CrackYourPlacement/tree/master/0141-linked-list-cycle) |
+| [0160-intersection-of-two-linked-lists](https://github.com/VIJAYKUMAR2435/-CrackYourPlacement/tree/master/0160-intersection-of-two-linked-lists) |
 | [0203-remove-linked-list-elements](https://github.com/VIJAYKUMAR2435/-CrackYourPlacement/tree/master/0203-remove-linked-list-elements) |
 | [0908-middle-of-the-linked-list](https://github.com/VIJAYKUMAR2435/-CrackYourPlacement/tree/master/0908-middle-of-the-linked-list) |
 ## Depth-First Search
