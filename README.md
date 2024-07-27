@@ -132,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0101-symmetric-tree](https://github.com/VIJAYKUMAR2435/-CrackYourPlacement/tree/master/0101-symmetric-tree) |
 | [0226-invert-binary-tree](https://github.com/VIJAYKUMAR2435/-CrackYourPlacement/tree/master/0226-invert-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/VIJAYKUMAR2435/-CrackYourPlacement/tree/master/0257-binary-tree-paths) |
 | [0543-diameter-of-binary-tree](https://github.com/VIJAYKUMAR2435/-CrackYourPlacement/tree/master/0543-diameter-of-binary-tree) |
 | [0617-merge-two-binary-trees](https://github.com/VIJAYKUMAR2435/-CrackYourPlacement/tree/master/0617-merge-two-binary-trees) |
 | [1207-delete-nodes-and-return-forest](https://github.com/VIJAYKUMAR2435/-CrackYourPlacement/tree/master/1207-delete-nodes-and-return-forest) |
@@ -143,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0101-symmetric-tree](https://github.com/VIJAYKUMAR2435/-CrackYourPlacement/tree/master/0101-symmetric-tree) |
 | [0226-invert-binary-tree](https://github.com/VIJAYKUMAR2435/-CrackYourPlacement/tree/master/0226-invert-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/VIJAYKUMAR2435/-CrackYourPlacement/tree/master/0257-binary-tree-paths) |
 | [0543-diameter-of-binary-tree](https://github.com/VIJAYKUMAR2435/-CrackYourPlacement/tree/master/0543-diameter-of-binary-tree) |
 | [0617-merge-two-binary-trees](https://github.com/VIJAYKUMAR2435/-CrackYourPlacement/tree/master/0617-merge-two-binary-trees) |
 | [1207-delete-nodes-and-return-forest](https://github.com/VIJAYKUMAR2435/-CrackYourPlacement/tree/master/1207-delete-nodes-and-return-forest) |
@@ -169,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/VIJAYKUMAR2435/-CrackYourPlacement/tree/master/0067-add-binary) |
 | [0151-reverse-words-in-a-string](https://github.com/VIJAYKUMAR2435/-CrackYourPlacement/tree/master/0151-reverse-words-in-a-string) |
 | [0227-basic-calculator-ii](https://github.com/VIJAYKUMAR2435/-CrackYourPlacement/tree/master/0227-basic-calculator-ii) |
+| [0257-binary-tree-paths](https://github.com/VIJAYKUMAR2435/-CrackYourPlacement/tree/master/0257-binary-tree-paths) |
 | [0680-valid-palindrome-ii](https://github.com/VIJAYKUMAR2435/-CrackYourPlacement/tree/master/0680-valid-palindrome-ii) |
 | [0874-backspace-string-compare](https://github.com/VIJAYKUMAR2435/-CrackYourPlacement/tree/master/0874-backspace-string-compare) |
 | [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/VIJAYKUMAR2435/-CrackYourPlacement/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
@@ -208,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0101-symmetric-tree](https://github.com/VIJAYKUMAR2435/-CrackYourPlacement/tree/master/0101-symmetric-tree) |
 | [0226-invert-binary-tree](https://github.com/VIJAYKUMAR2435/-CrackYourPlacement/tree/master/0226-invert-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/VIJAYKUMAR2435/-CrackYourPlacement/tree/master/0257-binary-tree-paths) |
 | [0543-diameter-of-binary-tree](https://github.com/VIJAYKUMAR2435/-CrackYourPlacement/tree/master/0543-diameter-of-binary-tree) |
 | [0617-merge-two-binary-trees](https://github.com/VIJAYKUMAR2435/-CrackYourPlacement/tree/master/0617-merge-two-binary-trees) |
 | [1207-delete-nodes-and-return-forest](https://github.com/VIJAYKUMAR2435/-CrackYourPlacement/tree/master/1207-delete-nodes-and-return-forest) |
@@ -356,4 +360,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0077-combinations](https://github.com/VIJAYKUMAR2435/-CrackYourPlacement/tree/master/0077-combinations) |
 | [0078-subsets](https://github.com/VIJAYKUMAR2435/-CrackYourPlacement/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/VIJAYKUMAR2435/-CrackYourPlacement/tree/master/0090-subsets-ii) |
+| [0257-binary-tree-paths](https://github.com/VIJAYKUMAR2435/-CrackYourPlacement/tree/master/0257-binary-tree-paths) |
 <!---LeetCode Topics End-->
