@@ -139,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0226-invert-binary-tree](https://github.com/VIJAYKUMAR2435/-CrackYourPlacement/tree/master/0226-invert-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/VIJAYKUMAR2435/-CrackYourPlacement/tree/master/0257-binary-tree-paths) |
 | [0543-diameter-of-binary-tree](https://github.com/VIJAYKUMAR2435/-CrackYourPlacement/tree/master/0543-diameter-of-binary-tree) |
+| [0572-subtree-of-another-tree](https://github.com/VIJAYKUMAR2435/-CrackYourPlacement/tree/master/0572-subtree-of-another-tree) |
 | [0617-merge-two-binary-trees](https://github.com/VIJAYKUMAR2435/-CrackYourPlacement/tree/master/0617-merge-two-binary-trees) |
 | [1207-delete-nodes-and-return-forest](https://github.com/VIJAYKUMAR2435/-CrackYourPlacement/tree/master/1207-delete-nodes-and-return-forest) |
 | [1653-number-of-good-leaf-nodes-pairs](https://github.com/VIJAYKUMAR2435/-CrackYourPlacement/tree/master/1653-number-of-good-leaf-nodes-pairs) |
@@ -153,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0226-invert-binary-tree](https://github.com/VIJAYKUMAR2435/-CrackYourPlacement/tree/master/0226-invert-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/VIJAYKUMAR2435/-CrackYourPlacement/tree/master/0257-binary-tree-paths) |
 | [0543-diameter-of-binary-tree](https://github.com/VIJAYKUMAR2435/-CrackYourPlacement/tree/master/0543-diameter-of-binary-tree) |
+| [0572-subtree-of-another-tree](https://github.com/VIJAYKUMAR2435/-CrackYourPlacement/tree/master/0572-subtree-of-another-tree) |
 | [0617-merge-two-binary-trees](https://github.com/VIJAYKUMAR2435/-CrackYourPlacement/tree/master/0617-merge-two-binary-trees) |
 | [1207-delete-nodes-and-return-forest](https://github.com/VIJAYKUMAR2435/-CrackYourPlacement/tree/master/1207-delete-nodes-and-return-forest) |
 | [1653-number-of-good-leaf-nodes-pairs](https://github.com/VIJAYKUMAR2435/-CrackYourPlacement/tree/master/1653-number-of-good-leaf-nodes-pairs) |
@@ -200,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/VIJAYKUMAR2435/-CrackYourPlacement/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0572-subtree-of-another-tree](https://github.com/VIJAYKUMAR2435/-CrackYourPlacement/tree/master/0572-subtree-of-another-tree) |
 ## Trie
 |  |
 | ------- |
@@ -222,6 +225,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0226-invert-binary-tree](https://github.com/VIJAYKUMAR2435/-CrackYourPlacement/tree/master/0226-invert-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/VIJAYKUMAR2435/-CrackYourPlacement/tree/master/0257-binary-tree-paths) |
 | [0543-diameter-of-binary-tree](https://github.com/VIJAYKUMAR2435/-CrackYourPlacement/tree/master/0543-diameter-of-binary-tree) |
+| [0572-subtree-of-another-tree](https://github.com/VIJAYKUMAR2435/-CrackYourPlacement/tree/master/0572-subtree-of-another-tree) |
 | [0617-merge-two-binary-trees](https://github.com/VIJAYKUMAR2435/-CrackYourPlacement/tree/master/0617-merge-two-binary-trees) |
 | [1207-delete-nodes-and-return-forest](https://github.com/VIJAYKUMAR2435/-CrackYourPlacement/tree/master/1207-delete-nodes-and-return-forest) |
 | [1653-number-of-good-leaf-nodes-pairs](https://github.com/VIJAYKUMAR2435/-CrackYourPlacement/tree/master/1653-number-of-good-leaf-nodes-pairs) |
@@ -383,4 +387,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/VIJAYKUMAR2435/-CrackYourPlacement/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [3235-minimum-cost-to-convert-string-i](https://github.com/VIJAYKUMAR2435/-CrackYourPlacement/tree/master/3235-minimum-cost-to-convert-string-i) |
+## Hash Function
+|  |
+| ------- |
+| [0572-subtree-of-another-tree](https://github.com/VIJAYKUMAR2435/-CrackYourPlacement/tree/master/0572-subtree-of-another-tree) |
 <!---LeetCode Topics End-->
