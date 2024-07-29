@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0064-minimum-path-sum](https://github.com/VIJAYKUMAR2435/-CrackYourPlacement/tree/master/0064-minimum-path-sum) |
 | [0075-sort-colors](https://github.com/VIJAYKUMAR2435/-CrackYourPlacement/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/VIJAYKUMAR2435/-CrackYourPlacement/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/VIJAYKUMAR2435/-CrackYourPlacement/tree/master/0079-word-search) |
 | [0088-merge-sorted-array](https://github.com/VIJAYKUMAR2435/-CrackYourPlacement/tree/master/0088-merge-sorted-array) |
 | [0090-subsets-ii](https://github.com/VIJAYKUMAR2435/-CrackYourPlacement/tree/master/0090-subsets-ii) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/VIJAYKUMAR2435/-CrackYourPlacement/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
@@ -186,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/VIJAYKUMAR2435/-CrackYourPlacement/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0049-group-anagrams](https://github.com/VIJAYKUMAR2435/-CrackYourPlacement/tree/master/0049-group-anagrams) |
 | [0067-add-binary](https://github.com/VIJAYKUMAR2435/-CrackYourPlacement/tree/master/0067-add-binary) |
+| [0079-word-search](https://github.com/VIJAYKUMAR2435/-CrackYourPlacement/tree/master/0079-word-search) |
 | [0151-reverse-words-in-a-string](https://github.com/VIJAYKUMAR2435/-CrackYourPlacement/tree/master/0151-reverse-words-in-a-string) |
 | [0227-basic-calculator-ii](https://github.com/VIJAYKUMAR2435/-CrackYourPlacement/tree/master/0227-basic-calculator-ii) |
 | [0257-binary-tree-paths](https://github.com/VIJAYKUMAR2435/-CrackYourPlacement/tree/master/0257-binary-tree-paths) |
@@ -277,6 +279,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/VIJAYKUMAR2435/-CrackYourPlacement/tree/master/0054-spiral-matrix) |
 | [0063-unique-paths-ii](https://github.com/VIJAYKUMAR2435/-CrackYourPlacement/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/VIJAYKUMAR2435/-CrackYourPlacement/tree/master/0064-minimum-path-sum) |
+| [0079-word-search](https://github.com/VIJAYKUMAR2435/-CrackYourPlacement/tree/master/0079-word-search) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/VIJAYKUMAR2435/-CrackYourPlacement/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/VIJAYKUMAR2435/-CrackYourPlacement/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/VIJAYKUMAR2435/-CrackYourPlacement/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
@@ -391,6 +394,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0040-combination-sum-ii](https://github.com/VIJAYKUMAR2435/-CrackYourPlacement/tree/master/0040-combination-sum-ii) |
 | [0077-combinations](https://github.com/VIJAYKUMAR2435/-CrackYourPlacement/tree/master/0077-combinations) |
 | [0078-subsets](https://github.com/VIJAYKUMAR2435/-CrackYourPlacement/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/VIJAYKUMAR2435/-CrackYourPlacement/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/VIJAYKUMAR2435/-CrackYourPlacement/tree/master/0090-subsets-ii) |
 | [0257-binary-tree-paths](https://github.com/VIJAYKUMAR2435/-CrackYourPlacement/tree/master/0257-binary-tree-paths) |
 ## Binary Search Tree
