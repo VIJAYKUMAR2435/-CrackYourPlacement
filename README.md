@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1014-k-closest-points-to-origin](https://github.com/VIJAYKUMAR2435/-CrackYourPlacement/tree/master/1014-k-closest-points-to-origin) |
 | [1207-delete-nodes-and-return-forest](https://github.com/VIJAYKUMAR2435/-CrackYourPlacement/tree/master/1207-delete-nodes-and-return-forest) |
 | [1333-sort-the-jumbled-numbers](https://github.com/VIJAYKUMAR2435/-CrackYourPlacement/tree/master/1333-sort-the-jumbled-numbers) |
+| [1402-count-square-submatrices-with-all-ones](https://github.com/VIJAYKUMAR2435/-CrackYourPlacement/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/VIJAYKUMAR2435/-CrackYourPlacement/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1511-count-number-of-teams](https://github.com/VIJAYKUMAR2435/-CrackYourPlacement/tree/master/1511-count-number-of-teams) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/VIJAYKUMAR2435/-CrackYourPlacement/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
@@ -116,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0152-maximum-product-subarray](https://github.com/VIJAYKUMAR2435/-CrackYourPlacement/tree/master/0152-maximum-product-subarray) |
 | [0322-coin-change](https://github.com/VIJAYKUMAR2435/-CrackYourPlacement/tree/master/0322-coin-change) |
 | [0338-counting-bits](https://github.com/VIJAYKUMAR2435/-CrackYourPlacement/tree/master/0338-counting-bits) |
+| [1402-count-square-submatrices-with-all-ones](https://github.com/VIJAYKUMAR2435/-CrackYourPlacement/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/VIJAYKUMAR2435/-CrackYourPlacement/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1511-count-number-of-teams](https://github.com/VIJAYKUMAR2435/-CrackYourPlacement/tree/master/1511-count-number-of-teams) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/VIJAYKUMAR2435/-CrackYourPlacement/tree/master/1756-minimum-deletions-to-make-string-balanced) |
@@ -289,6 +291,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/VIJAYKUMAR2435/-CrackYourPlacement/tree/master/0079-word-search) |
 | [0289-game-of-life](https://github.com/VIJAYKUMAR2435/-CrackYourPlacement/tree/master/0289-game-of-life) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/VIJAYKUMAR2435/-CrackYourPlacement/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [1402-count-square-submatrices-with-all-ones](https://github.com/VIJAYKUMAR2435/-CrackYourPlacement/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/VIJAYKUMAR2435/-CrackYourPlacement/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/VIJAYKUMAR2435/-CrackYourPlacement/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
 | [2472-build-a-matrix-with-conditions](https://github.com/VIJAYKUMAR2435/-CrackYourPlacement/tree/master/2472-build-a-matrix-with-conditions) |
