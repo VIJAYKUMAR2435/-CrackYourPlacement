@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1402-count-square-submatrices-with-all-ones](https://github.com/VIJAYKUMAR2435/-CrackYourPlacement/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/VIJAYKUMAR2435/-CrackYourPlacement/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1511-count-number-of-teams](https://github.com/VIJAYKUMAR2435/-CrackYourPlacement/tree/master/1511-count-number-of-teams) |
+| [1538-maximum-points-you-can-obtain-from-cards](https://github.com/VIJAYKUMAR2435/-CrackYourPlacement/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/VIJAYKUMAR2435/-CrackYourPlacement/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/VIJAYKUMAR2435/-CrackYourPlacement/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/VIJAYKUMAR2435/-CrackYourPlacement/tree/master/1741-sort-array-by-increasing-frequency) |
@@ -459,10 +460,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/VIJAYKUMAR2435/-CrackYourPlacement/tree/master/0560-subarray-sum-equals-k) |
+| [1538-maximum-points-you-can-obtain-from-cards](https://github.com/VIJAYKUMAR2435/-CrackYourPlacement/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 ## Sliding Window
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/VIJAYKUMAR2435/-CrackYourPlacement/tree/master/0239-sliding-window-maximum) |
+| [1538-maximum-points-you-can-obtain-from-cards](https://github.com/VIJAYKUMAR2435/-CrackYourPlacement/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/VIJAYKUMAR2435/-CrackYourPlacement/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
 ## Monotonic Queue
 |  |
