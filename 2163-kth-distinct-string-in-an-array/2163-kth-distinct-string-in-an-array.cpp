@@ -1,23 +1,28 @@
 class Solution {
 public:
     string kthDistinct(vector<string>& arr, int k) {
-         unordered_map<string, int> mp;
-    for (const string& str : arr) {
-        mp[str]++;
-    }
-    
-    vector<string> distinctElements;
-    for (const string& str : arr) {
-        if (mp[str] == 1) {
-            distinctElements.push_back(str);
+        unordered_map<string,int>mp;
+        for(auto str:arr){
+            mp[str]++;
         }
-    }
-    
-    if (distinctElements.size() < k) {
-        return "";
-    }
-    
-    return distinctElements[k - 1];
+        vector<string>v;
+        for(auto m:arr){
+            if(mp[m]==1){
+                v.push_back(m);
+            }
+        }
+        if(v.size()<k){
+            return "";
+        }
+        // priority_queue<string,vector<string>,greater<string>>minh;
+        // for(int i=0;i<v.size();i++){
+        //   minh.push(v[i]);
+        //   while(minh.size()>k){
+        //     minh.pop();
+        //   }
+        // }
+        // return minh.top();
+        return v[k-1];
 
     }
 };
