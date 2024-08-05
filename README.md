@@ -165,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/VIJAYKUMAR2435/-CrackYourPlacement/tree/master/0094-binary-tree-inorder-traversal) |
 | [0101-symmetric-tree](https://github.com/VIJAYKUMAR2435/-CrackYourPlacement/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/VIJAYKUMAR2435/-CrackYourPlacement/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/VIJAYKUMAR2435/-CrackYourPlacement/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
@@ -184,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/VIJAYKUMAR2435/-CrackYourPlacement/tree/master/0094-binary-tree-inorder-traversal) |
 | [0101-symmetric-tree](https://github.com/VIJAYKUMAR2435/-CrackYourPlacement/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/VIJAYKUMAR2435/-CrackYourPlacement/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/VIJAYKUMAR2435/-CrackYourPlacement/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
@@ -235,6 +237,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/VIJAYKUMAR2435/-CrackYourPlacement/tree/master/0020-valid-parentheses) |
+| [0094-binary-tree-inorder-traversal](https://github.com/VIJAYKUMAR2435/-CrackYourPlacement/tree/master/0094-binary-tree-inorder-traversal) |
 | [0225-implement-stack-using-queues](https://github.com/VIJAYKUMAR2435/-CrackYourPlacement/tree/master/0225-implement-stack-using-queues) |
 | [0227-basic-calculator-ii](https://github.com/VIJAYKUMAR2435/-CrackYourPlacement/tree/master/0227-basic-calculator-ii) |
 | [0232-implement-queue-using-stacks](https://github.com/VIJAYKUMAR2435/-CrackYourPlacement/tree/master/0232-implement-queue-using-stacks) |
@@ -268,6 +271,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/VIJAYKUMAR2435/-CrackYourPlacement/tree/master/0094-binary-tree-inorder-traversal) |
 | [0101-symmetric-tree](https://github.com/VIJAYKUMAR2435/-CrackYourPlacement/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/VIJAYKUMAR2435/-CrackYourPlacement/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/VIJAYKUMAR2435/-CrackYourPlacement/tree/master/0112-path-sum) |
