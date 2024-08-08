@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/VIJAYKUMAR2435/-CrackYourPlacement/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/VIJAYKUMAR2435/-CrackYourPlacement/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/VIJAYKUMAR2435/-CrackYourPlacement/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
+| [1733-maximum-number-of-visible-points](https://github.com/VIJAYKUMAR2435/-CrackYourPlacement/tree/master/1733-maximum-number-of-visible-points) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/VIJAYKUMAR2435/-CrackYourPlacement/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1792-find-the-most-competitive-subsequence](https://github.com/VIJAYKUMAR2435/-CrackYourPlacement/tree/master/1792-find-the-most-competitive-subsequence) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/VIJAYKUMAR2435/-CrackYourPlacement/tree/master/2163-kth-distinct-string-in-an-array) |
@@ -124,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1333-sort-the-jumbled-numbers](https://github.com/VIJAYKUMAR2435/-CrackYourPlacement/tree/master/1333-sort-the-jumbled-numbers) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/VIJAYKUMAR2435/-CrackYourPlacement/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/VIJAYKUMAR2435/-CrackYourPlacement/tree/master/1615-range-sum-of-sorted-subarray-sums) |
+| [1733-maximum-number-of-visible-points](https://github.com/VIJAYKUMAR2435/-CrackYourPlacement/tree/master/1733-maximum-number-of-visible-points) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/VIJAYKUMAR2435/-CrackYourPlacement/tree/master/1741-sort-array-by-increasing-frequency) |
 | [2502-sort-the-people](https://github.com/VIJAYKUMAR2435/-CrackYourPlacement/tree/master/2502-sort-the-people) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/VIJAYKUMAR2435/-CrackYourPlacement/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
@@ -379,6 +381,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/VIJAYKUMAR2435/-CrackYourPlacement/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/VIJAYKUMAR2435/-CrackYourPlacement/tree/master/0628-maximum-product-of-three-numbers) |
 | [1014-k-closest-points-to-origin](https://github.com/VIJAYKUMAR2435/-CrackYourPlacement/tree/master/1014-k-closest-points-to-origin) |
+| [1733-maximum-number-of-visible-points](https://github.com/VIJAYKUMAR2435/-CrackYourPlacement/tree/master/1733-maximum-number-of-visible-points) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -430,6 +433,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1014-k-closest-points-to-origin](https://github.com/VIJAYKUMAR2435/-CrackYourPlacement/tree/master/1014-k-closest-points-to-origin) |
+| [1733-maximum-number-of-visible-points](https://github.com/VIJAYKUMAR2435/-CrackYourPlacement/tree/master/1733-maximum-number-of-visible-points) |
 ## Graph
 |  |
 | ------- |
@@ -517,6 +521,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0239-sliding-window-maximum](https://github.com/VIJAYKUMAR2435/-CrackYourPlacement/tree/master/0239-sliding-window-maximum) |
 | [0424-longest-repeating-character-replacement](https://github.com/VIJAYKUMAR2435/-CrackYourPlacement/tree/master/0424-longest-repeating-character-replacement) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/VIJAYKUMAR2435/-CrackYourPlacement/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
+| [1733-maximum-number-of-visible-points](https://github.com/VIJAYKUMAR2435/-CrackYourPlacement/tree/master/1733-maximum-number-of-visible-points) |
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/VIJAYKUMAR2435/-CrackYourPlacement/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
 ## Monotonic Queue
 |  |
