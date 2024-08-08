@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/VIJAYKUMAR2435/-CrackYourPlacement/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/VIJAYKUMAR2435/-CrackYourPlacement/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/VIJAYKUMAR2435/-CrackYourPlacement/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
+| [0493-reverse-pairs](https://github.com/VIJAYKUMAR2435/-CrackYourPlacement/tree/master/0493-reverse-pairs) |
 | [0496-next-greater-element-i](https://github.com/VIJAYKUMAR2435/-CrackYourPlacement/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/VIJAYKUMAR2435/-CrackYourPlacement/tree/master/0560-subarray-sum-equals-k) |
 | [0628-maximum-product-of-three-numbers](https://github.com/VIJAYKUMAR2435/-CrackYourPlacement/tree/master/0628-maximum-product-of-three-numbers) |
@@ -97,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/VIJAYKUMAR2435/-CrackYourPlacement/tree/master/0287-find-the-duplicate-number) |
 | [0300-longest-increasing-subsequence](https://github.com/VIJAYKUMAR2435/-CrackYourPlacement/tree/master/0300-longest-increasing-subsequence) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/VIJAYKUMAR2435/-CrackYourPlacement/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0493-reverse-pairs](https://github.com/VIJAYKUMAR2435/-CrackYourPlacement/tree/master/0493-reverse-pairs) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/VIJAYKUMAR2435/-CrackYourPlacement/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 ## Bit Manipulation
 |  |
@@ -393,6 +395,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/VIJAYKUMAR2435/-CrackYourPlacement/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/VIJAYKUMAR2435/-CrackYourPlacement/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/VIJAYKUMAR2435/-CrackYourPlacement/tree/master/0347-top-k-frequent-elements) |
+| [0493-reverse-pairs](https://github.com/VIJAYKUMAR2435/-CrackYourPlacement/tree/master/0493-reverse-pairs) |
 | [0948-sort-an-array](https://github.com/VIJAYKUMAR2435/-CrackYourPlacement/tree/master/0948-sort-an-array) |
 | [1014-k-closest-points-to-origin](https://github.com/VIJAYKUMAR2435/-CrackYourPlacement/tree/master/1014-k-closest-points-to-origin) |
 ## Heap (Priority Queue)
@@ -469,6 +472,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/VIJAYKUMAR2435/-CrackYourPlacement/tree/master/0023-merge-k-sorted-lists) |
 | [0148-sort-list](https://github.com/VIJAYKUMAR2435/-CrackYourPlacement/tree/master/0148-sort-list) |
+| [0493-reverse-pairs](https://github.com/VIJAYKUMAR2435/-CrackYourPlacement/tree/master/0493-reverse-pairs) |
 | [0948-sort-an-array](https://github.com/VIJAYKUMAR2435/-CrackYourPlacement/tree/master/0948-sort-an-array) |
 ## Radix Sort
 |  |
@@ -511,6 +515,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Indexed Tree
 |  |
 | ------- |
+| [0493-reverse-pairs](https://github.com/VIJAYKUMAR2435/-CrackYourPlacement/tree/master/0493-reverse-pairs) |
 | [1511-count-number-of-teams](https://github.com/VIJAYKUMAR2435/-CrackYourPlacement/tree/master/1511-count-number-of-teams) |
 ## Prefix Sum
 |  |
@@ -536,4 +541,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0173-binary-search-tree-iterator](https://github.com/VIJAYKUMAR2435/-CrackYourPlacement/tree/master/0173-binary-search-tree-iterator) |
+## Segment Tree
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/VIJAYKUMAR2435/-CrackYourPlacement/tree/master/0493-reverse-pairs) |
+## Ordered Set
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/VIJAYKUMAR2435/-CrackYourPlacement/tree/master/0493-reverse-pairs) |
 <!---LeetCode Topics End-->
