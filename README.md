@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0303-range-sum-query-immutable](https://github.com/VIJAYKUMAR2435/-CrackYourPlacement/tree/master/0303-range-sum-query-immutable) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/VIJAYKUMAR2435/-CrackYourPlacement/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0322-coin-change](https://github.com/VIJAYKUMAR2435/-CrackYourPlacement/tree/master/0322-coin-change) |
+| [0336-palindrome-pairs](https://github.com/VIJAYKUMAR2435/-CrackYourPlacement/tree/master/0336-palindrome-pairs) |
 | [0347-top-k-frequent-elements](https://github.com/VIJAYKUMAR2435/-CrackYourPlacement/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/VIJAYKUMAR2435/-CrackYourPlacement/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/VIJAYKUMAR2435/-CrackYourPlacement/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
@@ -167,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/VIJAYKUMAR2435/-CrackYourPlacement/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/VIJAYKUMAR2435/-CrackYourPlacement/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/VIJAYKUMAR2435/-CrackYourPlacement/tree/master/0169-majority-element) |
+| [0336-palindrome-pairs](https://github.com/VIJAYKUMAR2435/-CrackYourPlacement/tree/master/0336-palindrome-pairs) |
 | [0347-top-k-frequent-elements](https://github.com/VIJAYKUMAR2435/-CrackYourPlacement/tree/master/0347-top-k-frequent-elements) |
 | [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/VIJAYKUMAR2435/-CrackYourPlacement/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
 | [0424-longest-repeating-character-replacement](https://github.com/VIJAYKUMAR2435/-CrackYourPlacement/tree/master/0424-longest-repeating-character-replacement) |
@@ -252,6 +254,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0227-basic-calculator-ii](https://github.com/VIJAYKUMAR2435/-CrackYourPlacement/tree/master/0227-basic-calculator-ii) |
 | [0257-binary-tree-paths](https://github.com/VIJAYKUMAR2435/-CrackYourPlacement/tree/master/0257-binary-tree-paths) |
 | [0273-integer-to-english-words](https://github.com/VIJAYKUMAR2435/-CrackYourPlacement/tree/master/0273-integer-to-english-words) |
+| [0336-palindrome-pairs](https://github.com/VIJAYKUMAR2435/-CrackYourPlacement/tree/master/0336-palindrome-pairs) |
 | [0424-longest-repeating-character-replacement](https://github.com/VIJAYKUMAR2435/-CrackYourPlacement/tree/master/0424-longest-repeating-character-replacement) |
 | [0680-valid-palindrome-ii](https://github.com/VIJAYKUMAR2435/-CrackYourPlacement/tree/master/0680-valid-palindrome-ii) |
 | [0874-backspace-string-compare](https://github.com/VIJAYKUMAR2435/-CrackYourPlacement/tree/master/0874-backspace-string-compare) |
@@ -287,6 +290,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/VIJAYKUMAR2435/-CrackYourPlacement/tree/master/0014-longest-common-prefix) |
+| [0336-palindrome-pairs](https://github.com/VIJAYKUMAR2435/-CrackYourPlacement/tree/master/0336-palindrome-pairs) |
 ## Linked List
 |  |
 | ------- |
