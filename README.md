@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/VIJAYKUMAR2435/-CrackYourPlacement/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0152-maximum-product-subarray](https://github.com/VIJAYKUMAR2435/-CrackYourPlacement/tree/master/0152-maximum-product-subarray) |
 | [0169-majority-element](https://github.com/VIJAYKUMAR2435/-CrackYourPlacement/tree/master/0169-majority-element) |
+| [0189-rotate-array](https://github.com/VIJAYKUMAR2435/-CrackYourPlacement/tree/master/0189-rotate-array) |
 | [0200-number-of-islands](https://github.com/VIJAYKUMAR2435/-CrackYourPlacement/tree/master/0200-number-of-islands) |
 | [0215-kth-largest-element-in-an-array](https://github.com/VIJAYKUMAR2435/-CrackYourPlacement/tree/master/0215-kth-largest-element-in-an-array) |
 | [0239-sliding-window-maximum](https://github.com/VIJAYKUMAR2435/-CrackYourPlacement/tree/master/0239-sliding-window-maximum) |
@@ -92,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0148-sort-list](https://github.com/VIJAYKUMAR2435/-CrackYourPlacement/tree/master/0148-sort-list) |
 | [0151-reverse-words-in-a-string](https://github.com/VIJAYKUMAR2435/-CrackYourPlacement/tree/master/0151-reverse-words-in-a-string) |
 | [0160-intersection-of-two-linked-lists](https://github.com/VIJAYKUMAR2435/-CrackYourPlacement/tree/master/0160-intersection-of-two-linked-lists) |
+| [0189-rotate-array](https://github.com/VIJAYKUMAR2435/-CrackYourPlacement/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/VIJAYKUMAR2435/-CrackYourPlacement/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/VIJAYKUMAR2435/-CrackYourPlacement/tree/master/0287-find-the-duplicate-number) |
 | [0680-valid-palindrome-ii](https://github.com/VIJAYKUMAR2435/-CrackYourPlacement/tree/master/0680-valid-palindrome-ii) |
@@ -405,6 +407,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/VIJAYKUMAR2435/-CrackYourPlacement/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/VIJAYKUMAR2435/-CrackYourPlacement/tree/master/0070-climbing-stairs) |
 | [0168-excel-sheet-column-title](https://github.com/VIJAYKUMAR2435/-CrackYourPlacement/tree/master/0168-excel-sheet-column-title) |
+| [0189-rotate-array](https://github.com/VIJAYKUMAR2435/-CrackYourPlacement/tree/master/0189-rotate-array) |
 | [0227-basic-calculator-ii](https://github.com/VIJAYKUMAR2435/-CrackYourPlacement/tree/master/0227-basic-calculator-ii) |
 | [0273-integer-to-english-words](https://github.com/VIJAYKUMAR2435/-CrackYourPlacement/tree/master/0273-integer-to-english-words) |
 | [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/VIJAYKUMAR2435/-CrackYourPlacement/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
