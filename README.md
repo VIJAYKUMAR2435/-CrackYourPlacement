@@ -338,6 +338,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0975-range-sum-of-bst](https://github.com/VIJAYKUMAR2435/-CrackYourPlacement/tree/master/0975-range-sum-of-bst) |
 | [0999-regions-cut-by-slashes](https://github.com/VIJAYKUMAR2435/-CrackYourPlacement/tree/master/0999-regions-cut-by-slashes) |
 | [1207-delete-nodes-and-return-forest](https://github.com/VIJAYKUMAR2435/-CrackYourPlacement/tree/master/1207-delete-nodes-and-return-forest) |
+| [1300-critical-connections-in-a-network](https://github.com/VIJAYKUMAR2435/-CrackYourPlacement/tree/master/1300-critical-connections-in-a-network) |
 | [1653-number-of-good-leaf-nodes-pairs](https://github.com/VIJAYKUMAR2435/-CrackYourPlacement/tree/master/1653-number-of-good-leaf-nodes-pairs) |
 | [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/VIJAYKUMAR2435/-CrackYourPlacement/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
 ## Design
@@ -483,6 +484,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Graph
 |  |
 | ------- |
+| [1300-critical-connections-in-a-network](https://github.com/VIJAYKUMAR2435/-CrackYourPlacement/tree/master/1300-critical-connections-in-a-network) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/VIJAYKUMAR2435/-CrackYourPlacement/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [2171-second-minimum-time-to-reach-destination](https://github.com/VIJAYKUMAR2435/-CrackYourPlacement/tree/master/2171-second-minimum-time-to-reach-destination) |
 | [2472-build-a-matrix-with-conditions](https://github.com/VIJAYKUMAR2435/-CrackYourPlacement/tree/master/2472-build-a-matrix-with-conditions) |
@@ -598,4 +600,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0200-number-of-islands](https://github.com/VIJAYKUMAR2435/-CrackYourPlacement/tree/master/0200-number-of-islands) |
 | [0999-regions-cut-by-slashes](https://github.com/VIJAYKUMAR2435/-CrackYourPlacement/tree/master/0999-regions-cut-by-slashes) |
+## Biconnected Component
+|  |
+| ------- |
+| [1300-critical-connections-in-a-network](https://github.com/VIJAYKUMAR2435/-CrackYourPlacement/tree/master/1300-critical-connections-in-a-network) |
 <!---LeetCode Topics End-->
