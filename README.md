@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1733-maximum-number-of-visible-points](https://github.com/VIJAYKUMAR2435/-CrackYourPlacement/tree/master/1733-maximum-number-of-visible-points) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/VIJAYKUMAR2435/-CrackYourPlacement/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1792-find-the-most-competitive-subsequence](https://github.com/VIJAYKUMAR2435/-CrackYourPlacement/tree/master/1792-find-the-most-competitive-subsequence) |
+| [1878-check-if-array-is-sorted-and-rotated](https://github.com/VIJAYKUMAR2435/-CrackYourPlacement/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/VIJAYKUMAR2435/-CrackYourPlacement/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/VIJAYKUMAR2435/-CrackYourPlacement/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/VIJAYKUMAR2435/-CrackYourPlacement/tree/master/2306-create-binary-tree-from-descriptions) |
