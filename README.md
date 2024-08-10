@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/VIJAYKUMAR2435/-CrackYourPlacement/tree/master/0200-number-of-islands) |
 | [0215-kth-largest-element-in-an-array](https://github.com/VIJAYKUMAR2435/-CrackYourPlacement/tree/master/0215-kth-largest-element-in-an-array) |
 | [0239-sliding-window-maximum](https://github.com/VIJAYKUMAR2435/-CrackYourPlacement/tree/master/0239-sliding-window-maximum) |
+| [0268-missing-number](https://github.com/VIJAYKUMAR2435/-CrackYourPlacement/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/VIJAYKUMAR2435/-CrackYourPlacement/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/VIJAYKUMAR2435/-CrackYourPlacement/tree/master/0287-find-the-duplicate-number) |
 | [0289-game-of-life](https://github.com/VIJAYKUMAR2435/-CrackYourPlacement/tree/master/0289-game-of-life) |
@@ -105,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/VIJAYKUMAR2435/-CrackYourPlacement/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/VIJAYKUMAR2435/-CrackYourPlacement/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0268-missing-number](https://github.com/VIJAYKUMAR2435/-CrackYourPlacement/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/VIJAYKUMAR2435/-CrackYourPlacement/tree/master/0287-find-the-duplicate-number) |
 | [0300-longest-increasing-subsequence](https://github.com/VIJAYKUMAR2435/-CrackYourPlacement/tree/master/0300-longest-increasing-subsequence) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/VIJAYKUMAR2435/-CrackYourPlacement/tree/master/0315-count-of-smaller-numbers-after-self) |
@@ -117,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/VIJAYKUMAR2435/-CrackYourPlacement/tree/master/0067-add-binary) |
 | [0078-subsets](https://github.com/VIJAYKUMAR2435/-CrackYourPlacement/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/VIJAYKUMAR2435/-CrackYourPlacement/tree/master/0090-subsets-ii) |
+| [0268-missing-number](https://github.com/VIJAYKUMAR2435/-CrackYourPlacement/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/VIJAYKUMAR2435/-CrackYourPlacement/tree/master/0287-find-the-duplicate-number) |
 | [0338-counting-bits](https://github.com/VIJAYKUMAR2435/-CrackYourPlacement/tree/master/0338-counting-bits) |
 ## Sorting
@@ -130,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0148-sort-list](https://github.com/VIJAYKUMAR2435/-CrackYourPlacement/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/VIJAYKUMAR2435/-CrackYourPlacement/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/VIJAYKUMAR2435/-CrackYourPlacement/tree/master/0215-kth-largest-element-in-an-array) |
+| [0268-missing-number](https://github.com/VIJAYKUMAR2435/-CrackYourPlacement/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/VIJAYKUMAR2435/-CrackYourPlacement/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/VIJAYKUMAR2435/-CrackYourPlacement/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/VIJAYKUMAR2435/-CrackYourPlacement/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
@@ -172,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/VIJAYKUMAR2435/-CrackYourPlacement/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/VIJAYKUMAR2435/-CrackYourPlacement/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/VIJAYKUMAR2435/-CrackYourPlacement/tree/master/0169-majority-element) |
+| [0268-missing-number](https://github.com/VIJAYKUMAR2435/-CrackYourPlacement/tree/master/0268-missing-number) |
 | [0336-palindrome-pairs](https://github.com/VIJAYKUMAR2435/-CrackYourPlacement/tree/master/0336-palindrome-pairs) |
 | [0347-top-k-frequent-elements](https://github.com/VIJAYKUMAR2435/-CrackYourPlacement/tree/master/0347-top-k-frequent-elements) |
 | [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/VIJAYKUMAR2435/-CrackYourPlacement/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
@@ -409,6 +414,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0168-excel-sheet-column-title](https://github.com/VIJAYKUMAR2435/-CrackYourPlacement/tree/master/0168-excel-sheet-column-title) |
 | [0189-rotate-array](https://github.com/VIJAYKUMAR2435/-CrackYourPlacement/tree/master/0189-rotate-array) |
 | [0227-basic-calculator-ii](https://github.com/VIJAYKUMAR2435/-CrackYourPlacement/tree/master/0227-basic-calculator-ii) |
+| [0268-missing-number](https://github.com/VIJAYKUMAR2435/-CrackYourPlacement/tree/master/0268-missing-number) |
 | [0273-integer-to-english-words](https://github.com/VIJAYKUMAR2435/-CrackYourPlacement/tree/master/0273-integer-to-english-words) |
 | [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/VIJAYKUMAR2435/-CrackYourPlacement/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/VIJAYKUMAR2435/-CrackYourPlacement/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
