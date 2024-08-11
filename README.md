@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/VIJAYKUMAR2435/-CrackYourPlacement/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/VIJAYKUMAR2435/-CrackYourPlacement/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [1622-max-value-of-equation](https://github.com/VIJAYKUMAR2435/-CrackYourPlacement/tree/master/1622-max-value-of-equation) |
+| [1691-minimum-number-of-days-to-disconnect-island](https://github.com/VIJAYKUMAR2435/-CrackYourPlacement/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/VIJAYKUMAR2435/-CrackYourPlacement/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
 | [1733-maximum-number-of-visible-points](https://github.com/VIJAYKUMAR2435/-CrackYourPlacement/tree/master/1733-maximum-number-of-visible-points) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/VIJAYKUMAR2435/-CrackYourPlacement/tree/master/1741-sort-array-by-increasing-frequency) |
@@ -341,6 +342,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1207-delete-nodes-and-return-forest](https://github.com/VIJAYKUMAR2435/-CrackYourPlacement/tree/master/1207-delete-nodes-and-return-forest) |
 | [1300-critical-connections-in-a-network](https://github.com/VIJAYKUMAR2435/-CrackYourPlacement/tree/master/1300-critical-connections-in-a-network) |
 | [1653-number-of-good-leaf-nodes-pairs](https://github.com/VIJAYKUMAR2435/-CrackYourPlacement/tree/master/1653-number-of-good-leaf-nodes-pairs) |
+| [1691-minimum-number-of-days-to-disconnect-island](https://github.com/VIJAYKUMAR2435/-CrackYourPlacement/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
 | [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/VIJAYKUMAR2435/-CrackYourPlacement/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
 ## Design
 |  |
@@ -381,6 +383,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0662-maximum-width-of-binary-tree](https://github.com/VIJAYKUMAR2435/-CrackYourPlacement/tree/master/0662-maximum-width-of-binary-tree) |
 | [0733-flood-fill](https://github.com/VIJAYKUMAR2435/-CrackYourPlacement/tree/master/0733-flood-fill) |
 | [0999-regions-cut-by-slashes](https://github.com/VIJAYKUMAR2435/-CrackYourPlacement/tree/master/0999-regions-cut-by-slashes) |
+| [1691-minimum-number-of-days-to-disconnect-island](https://github.com/VIJAYKUMAR2435/-CrackYourPlacement/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
 | [2171-second-minimum-time-to-reach-destination](https://github.com/VIJAYKUMAR2435/-CrackYourPlacement/tree/master/2171-second-minimum-time-to-reach-destination) |
 ## Matrix
 |  |
@@ -399,6 +402,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0999-regions-cut-by-slashes](https://github.com/VIJAYKUMAR2435/-CrackYourPlacement/tree/master/0999-regions-cut-by-slashes) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/VIJAYKUMAR2435/-CrackYourPlacement/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/VIJAYKUMAR2435/-CrackYourPlacement/tree/master/1496-lucky-numbers-in-a-matrix) |
+| [1691-minimum-number-of-days-to-disconnect-island](https://github.com/VIJAYKUMAR2435/-CrackYourPlacement/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/VIJAYKUMAR2435/-CrackYourPlacement/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
 | [2472-build-a-matrix-with-conditions](https://github.com/VIJAYKUMAR2435/-CrackYourPlacement/tree/master/2472-build-a-matrix-with-conditions) |
 ## Monotonic Stack
@@ -608,4 +612,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1300-critical-connections-in-a-network](https://github.com/VIJAYKUMAR2435/-CrackYourPlacement/tree/master/1300-critical-connections-in-a-network) |
+## Strongly Connected Component
+|  |
+| ------- |
+| [1691-minimum-number-of-days-to-disconnect-island](https://github.com/VIJAYKUMAR2435/-CrackYourPlacement/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
 <!---LeetCode Topics End-->
