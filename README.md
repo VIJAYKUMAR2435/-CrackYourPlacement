@@ -282,6 +282,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0812-rotate-string](https://github.com/VIJAYKUMAR2435/-CrackYourPlacement/tree/master/0812-rotate-string) |
 | [0874-backspace-string-compare](https://github.com/VIJAYKUMAR2435/-CrackYourPlacement/tree/master/0874-backspace-string-compare) |
 | [1250-longest-common-subsequence](https://github.com/VIJAYKUMAR2435/-CrackYourPlacement/tree/master/1250-longest-common-subsequence) |
+| [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/VIJAYKUMAR2435/-CrackYourPlacement/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/VIJAYKUMAR2435/-CrackYourPlacement/tree/master/1756-minimum-deletions-to-make-string-balanced) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/VIJAYKUMAR2435/-CrackYourPlacement/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/VIJAYKUMAR2435/-CrackYourPlacement/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
@@ -302,6 +303,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0739-daily-temperatures](https://github.com/VIJAYKUMAR2435/-CrackYourPlacement/tree/master/0739-daily-temperatures) |
 | [0874-backspace-string-compare](https://github.com/VIJAYKUMAR2435/-CrackYourPlacement/tree/master/0874-backspace-string-compare) |
 | [0937-online-stock-span](https://github.com/VIJAYKUMAR2435/-CrackYourPlacement/tree/master/0937-online-stock-span) |
+| [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/VIJAYKUMAR2435/-CrackYourPlacement/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/VIJAYKUMAR2435/-CrackYourPlacement/tree/master/1756-minimum-deletions-to-make-string-balanced) |
 | [1792-find-the-most-competitive-subsequence](https://github.com/VIJAYKUMAR2435/-CrackYourPlacement/tree/master/1792-find-the-most-competitive-subsequence) |
 ## String Matching
