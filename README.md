@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0307-range-sum-query-mutable](https://github.com/VIJAYKUMAR2435/-CrackYourPlacement/tree/master/0307-range-sum-query-mutable) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/VIJAYKUMAR2435/-CrackYourPlacement/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0322-coin-change](https://github.com/VIJAYKUMAR2435/-CrackYourPlacement/tree/master/0322-coin-change) |
+| [0327-count-of-range-sum](https://github.com/VIJAYKUMAR2435/-CrackYourPlacement/tree/master/0327-count-of-range-sum) |
 | [0336-palindrome-pairs](https://github.com/VIJAYKUMAR2435/-CrackYourPlacement/tree/master/0336-palindrome-pairs) |
 | [0347-top-k-frequent-elements](https://github.com/VIJAYKUMAR2435/-CrackYourPlacement/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/VIJAYKUMAR2435/-CrackYourPlacement/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
@@ -117,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/VIJAYKUMAR2435/-CrackYourPlacement/tree/master/0287-find-the-duplicate-number) |
 | [0300-longest-increasing-subsequence](https://github.com/VIJAYKUMAR2435/-CrackYourPlacement/tree/master/0300-longest-increasing-subsequence) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/VIJAYKUMAR2435/-CrackYourPlacement/tree/master/0315-count-of-smaller-numbers-after-self) |
+| [0327-count-of-range-sum](https://github.com/VIJAYKUMAR2435/-CrackYourPlacement/tree/master/0327-count-of-range-sum) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/VIJAYKUMAR2435/-CrackYourPlacement/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0493-reverse-pairs](https://github.com/VIJAYKUMAR2435/-CrackYourPlacement/tree/master/0493-reverse-pairs) |
 | [0794-swim-in-rising-water](https://github.com/VIJAYKUMAR2435/-CrackYourPlacement/tree/master/0794-swim-in-rising-water) |
@@ -463,6 +465,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/VIJAYKUMAR2435/-CrackYourPlacement/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/VIJAYKUMAR2435/-CrackYourPlacement/tree/master/0215-kth-largest-element-in-an-array) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/VIJAYKUMAR2435/-CrackYourPlacement/tree/master/0315-count-of-smaller-numbers-after-self) |
+| [0327-count-of-range-sum](https://github.com/VIJAYKUMAR2435/-CrackYourPlacement/tree/master/0327-count-of-range-sum) |
 | [0347-top-k-frequent-elements](https://github.com/VIJAYKUMAR2435/-CrackYourPlacement/tree/master/0347-top-k-frequent-elements) |
 | [0493-reverse-pairs](https://github.com/VIJAYKUMAR2435/-CrackYourPlacement/tree/master/0493-reverse-pairs) |
 | [0948-sort-an-array](https://github.com/VIJAYKUMAR2435/-CrackYourPlacement/tree/master/0948-sort-an-array) |
@@ -552,6 +555,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0023-merge-k-sorted-lists](https://github.com/VIJAYKUMAR2435/-CrackYourPlacement/tree/master/0023-merge-k-sorted-lists) |
 | [0148-sort-list](https://github.com/VIJAYKUMAR2435/-CrackYourPlacement/tree/master/0148-sort-list) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/VIJAYKUMAR2435/-CrackYourPlacement/tree/master/0315-count-of-smaller-numbers-after-self) |
+| [0327-count-of-range-sum](https://github.com/VIJAYKUMAR2435/-CrackYourPlacement/tree/master/0327-count-of-range-sum) |
 | [0493-reverse-pairs](https://github.com/VIJAYKUMAR2435/-CrackYourPlacement/tree/master/0493-reverse-pairs) |
 | [0948-sort-an-array](https://github.com/VIJAYKUMAR2435/-CrackYourPlacement/tree/master/0948-sort-an-array) |
 ## Radix Sort
@@ -598,6 +602,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0307-range-sum-query-mutable](https://github.com/VIJAYKUMAR2435/-CrackYourPlacement/tree/master/0307-range-sum-query-mutable) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/VIJAYKUMAR2435/-CrackYourPlacement/tree/master/0315-count-of-smaller-numbers-after-self) |
+| [0327-count-of-range-sum](https://github.com/VIJAYKUMAR2435/-CrackYourPlacement/tree/master/0327-count-of-range-sum) |
 | [0493-reverse-pairs](https://github.com/VIJAYKUMAR2435/-CrackYourPlacement/tree/master/0493-reverse-pairs) |
 | [1511-count-number-of-teams](https://github.com/VIJAYKUMAR2435/-CrackYourPlacement/tree/master/1511-count-number-of-teams) |
 ## Prefix Sum
@@ -629,11 +634,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0307-range-sum-query-mutable](https://github.com/VIJAYKUMAR2435/-CrackYourPlacement/tree/master/0307-range-sum-query-mutable) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/VIJAYKUMAR2435/-CrackYourPlacement/tree/master/0315-count-of-smaller-numbers-after-self) |
+| [0327-count-of-range-sum](https://github.com/VIJAYKUMAR2435/-CrackYourPlacement/tree/master/0327-count-of-range-sum) |
 | [0493-reverse-pairs](https://github.com/VIJAYKUMAR2435/-CrackYourPlacement/tree/master/0493-reverse-pairs) |
 ## Ordered Set
 |  |
 | ------- |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/VIJAYKUMAR2435/-CrackYourPlacement/tree/master/0315-count-of-smaller-numbers-after-self) |
+| [0327-count-of-range-sum](https://github.com/VIJAYKUMAR2435/-CrackYourPlacement/tree/master/0327-count-of-range-sum) |
 | [0493-reverse-pairs](https://github.com/VIJAYKUMAR2435/-CrackYourPlacement/tree/master/0493-reverse-pairs) |
 ## Union Find
 |  |
