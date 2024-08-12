@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0739-daily-temperatures](https://github.com/VIJAYKUMAR2435/-CrackYourPlacement/tree/master/0739-daily-temperatures) |
 | [0794-swim-in-rising-water](https://github.com/VIJAYKUMAR2435/-CrackYourPlacement/tree/master/0794-swim-in-rising-water) |
 | [0870-magic-squares-in-grid](https://github.com/VIJAYKUMAR2435/-CrackYourPlacement/tree/master/0870-magic-squares-in-grid) |
+| [0887-minimum-cost-to-hire-k-workers](https://github.com/VIJAYKUMAR2435/-CrackYourPlacement/tree/master/0887-minimum-cost-to-hire-k-workers) |
 | [0921-spiral-matrix-iii](https://github.com/VIJAYKUMAR2435/-CrackYourPlacement/tree/master/0921-spiral-matrix-iii) |
 | [0948-sort-an-array](https://github.com/VIJAYKUMAR2435/-CrackYourPlacement/tree/master/0948-sort-an-array) |
 | [0999-regions-cut-by-slashes](https://github.com/VIJAYKUMAR2435/-CrackYourPlacement/tree/master/0999-regions-cut-by-slashes) |
@@ -146,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/VIJAYKUMAR2435/-CrackYourPlacement/tree/master/0451-sort-characters-by-frequency) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/VIJAYKUMAR2435/-CrackYourPlacement/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/VIJAYKUMAR2435/-CrackYourPlacement/tree/master/0628-maximum-product-of-three-numbers) |
+| [0887-minimum-cost-to-hire-k-workers](https://github.com/VIJAYKUMAR2435/-CrackYourPlacement/tree/master/0887-minimum-cost-to-hire-k-workers) |
 | [0948-sort-an-array](https://github.com/VIJAYKUMAR2435/-CrackYourPlacement/tree/master/0948-sort-an-array) |
 | [1014-k-closest-points-to-origin](https://github.com/VIJAYKUMAR2435/-CrackYourPlacement/tree/master/1014-k-closest-points-to-origin) |
 | [1333-sort-the-jumbled-numbers](https://github.com/VIJAYKUMAR2435/-CrackYourPlacement/tree/master/1333-sort-the-jumbled-numbers) |
@@ -256,6 +258,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/VIJAYKUMAR2435/-CrackYourPlacement/tree/master/0011-container-with-most-water) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/VIJAYKUMAR2435/-CrackYourPlacement/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0680-valid-palindrome-ii](https://github.com/VIJAYKUMAR2435/-CrackYourPlacement/tree/master/0680-valid-palindrome-ii) |
+| [0887-minimum-cost-to-hire-k-workers](https://github.com/VIJAYKUMAR2435/-CrackYourPlacement/tree/master/0887-minimum-cost-to-hire-k-workers) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/VIJAYKUMAR2435/-CrackYourPlacement/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
 | [1792-find-the-most-competitive-subsequence](https://github.com/VIJAYKUMAR2435/-CrackYourPlacement/tree/master/1792-find-the-most-competitive-subsequence) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/VIJAYKUMAR2435/-CrackYourPlacement/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
@@ -472,6 +475,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/VIJAYKUMAR2435/-CrackYourPlacement/tree/master/0451-sort-characters-by-frequency) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/VIJAYKUMAR2435/-CrackYourPlacement/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0794-swim-in-rising-water](https://github.com/VIJAYKUMAR2435/-CrackYourPlacement/tree/master/0794-swim-in-rising-water) |
+| [0887-minimum-cost-to-hire-k-workers](https://github.com/VIJAYKUMAR2435/-CrackYourPlacement/tree/master/0887-minimum-cost-to-hire-k-workers) |
 | [0948-sort-an-array](https://github.com/VIJAYKUMAR2435/-CrackYourPlacement/tree/master/0948-sort-an-array) |
 | [1014-k-closest-points-to-origin](https://github.com/VIJAYKUMAR2435/-CrackYourPlacement/tree/master/1014-k-closest-points-to-origin) |
 | [1622-max-value-of-equation](https://github.com/VIJAYKUMAR2435/-CrackYourPlacement/tree/master/1622-max-value-of-equation) |
