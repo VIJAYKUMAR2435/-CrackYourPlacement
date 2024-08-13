@@ -168,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0063-unique-paths-ii](https://github.com/VIJAYKUMAR2435/-CrackYourPlacement/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/VIJAYKUMAR2435/-CrackYourPlacement/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/VIJAYKUMAR2435/-CrackYourPlacement/tree/master/0070-climbing-stairs) |
+| [0096-unique-binary-search-trees](https://github.com/VIJAYKUMAR2435/-CrackYourPlacement/tree/master/0096-unique-binary-search-trees) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/VIJAYKUMAR2435/-CrackYourPlacement/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/VIJAYKUMAR2435/-CrackYourPlacement/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0152-maximum-product-subarray](https://github.com/VIJAYKUMAR2435/-CrackYourPlacement/tree/master/0152-maximum-product-subarray) |
@@ -213,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/VIJAYKUMAR2435/-CrackYourPlacement/tree/master/0094-binary-tree-inorder-traversal) |
+| [0096-unique-binary-search-trees](https://github.com/VIJAYKUMAR2435/-CrackYourPlacement/tree/master/0096-unique-binary-search-trees) |
 | [0098-validate-binary-search-tree](https://github.com/VIJAYKUMAR2435/-CrackYourPlacement/tree/master/0098-validate-binary-search-tree) |
 | [0101-symmetric-tree](https://github.com/VIJAYKUMAR2435/-CrackYourPlacement/tree/master/0101-symmetric-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/VIJAYKUMAR2435/-CrackYourPlacement/tree/master/0102-binary-tree-level-order-traversal) |
@@ -239,6 +241,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/VIJAYKUMAR2435/-CrackYourPlacement/tree/master/0094-binary-tree-inorder-traversal) |
+| [0096-unique-binary-search-trees](https://github.com/VIJAYKUMAR2435/-CrackYourPlacement/tree/master/0096-unique-binary-search-trees) |
 | [0098-validate-binary-search-tree](https://github.com/VIJAYKUMAR2435/-CrackYourPlacement/tree/master/0098-validate-binary-search-tree) |
 | [0101-symmetric-tree](https://github.com/VIJAYKUMAR2435/-CrackYourPlacement/tree/master/0101-symmetric-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/VIJAYKUMAR2435/-CrackYourPlacement/tree/master/0102-binary-tree-level-order-traversal) |
@@ -456,6 +459,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0062-unique-paths](https://github.com/VIJAYKUMAR2435/-CrackYourPlacement/tree/master/0062-unique-paths) |
 | [0067-add-binary](https://github.com/VIJAYKUMAR2435/-CrackYourPlacement/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/VIJAYKUMAR2435/-CrackYourPlacement/tree/master/0070-climbing-stairs) |
+| [0096-unique-binary-search-trees](https://github.com/VIJAYKUMAR2435/-CrackYourPlacement/tree/master/0096-unique-binary-search-trees) |
 | [0168-excel-sheet-column-title](https://github.com/VIJAYKUMAR2435/-CrackYourPlacement/tree/master/0168-excel-sheet-column-title) |
 | [0189-rotate-array](https://github.com/VIJAYKUMAR2435/-CrackYourPlacement/tree/master/0189-rotate-array) |
 | [0227-basic-calculator-ii](https://github.com/VIJAYKUMAR2435/-CrackYourPlacement/tree/master/0227-basic-calculator-ii) |
@@ -593,6 +597,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search Tree
 |  |
 | ------- |
+| [0096-unique-binary-search-trees](https://github.com/VIJAYKUMAR2435/-CrackYourPlacement/tree/master/0096-unique-binary-search-trees) |
 | [0098-validate-binary-search-tree](https://github.com/VIJAYKUMAR2435/-CrackYourPlacement/tree/master/0098-validate-binary-search-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/VIJAYKUMAR2435/-CrackYourPlacement/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0173-binary-search-tree-iterator](https://github.com/VIJAYKUMAR2435/-CrackYourPlacement/tree/master/0173-binary-search-tree-iterator) |
