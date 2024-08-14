@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/VIJAYKUMAR2435/-CrackYourPlacement/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/VIJAYKUMAR2435/-CrackYourPlacement/tree/master/0560-subarray-sum-equals-k) |
 | [0628-maximum-product-of-three-numbers](https://github.com/VIJAYKUMAR2435/-CrackYourPlacement/tree/master/0628-maximum-product-of-three-numbers) |
+| [0719-find-k-th-smallest-pair-distance](https://github.com/VIJAYKUMAR2435/-CrackYourPlacement/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0733-flood-fill](https://github.com/VIJAYKUMAR2435/-CrackYourPlacement/tree/master/0733-flood-fill) |
 | [0739-daily-temperatures](https://github.com/VIJAYKUMAR2435/-CrackYourPlacement/tree/master/0739-daily-temperatures) |
 | [0794-swim-in-rising-water](https://github.com/VIJAYKUMAR2435/-CrackYourPlacement/tree/master/0794-swim-in-rising-water) |
@@ -106,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/VIJAYKUMAR2435/-CrackYourPlacement/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/VIJAYKUMAR2435/-CrackYourPlacement/tree/master/0287-find-the-duplicate-number) |
 | [0680-valid-palindrome-ii](https://github.com/VIJAYKUMAR2435/-CrackYourPlacement/tree/master/0680-valid-palindrome-ii) |
+| [0719-find-k-th-smallest-pair-distance](https://github.com/VIJAYKUMAR2435/-CrackYourPlacement/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0874-backspace-string-compare](https://github.com/VIJAYKUMAR2435/-CrackYourPlacement/tree/master/0874-backspace-string-compare) |
 | [0908-middle-of-the-linked-list](https://github.com/VIJAYKUMAR2435/-CrackYourPlacement/tree/master/0908-middle-of-the-linked-list) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/VIJAYKUMAR2435/-CrackYourPlacement/tree/master/1615-range-sum-of-sorted-subarray-sums) |
@@ -121,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0327-count-of-range-sum](https://github.com/VIJAYKUMAR2435/-CrackYourPlacement/tree/master/0327-count-of-range-sum) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/VIJAYKUMAR2435/-CrackYourPlacement/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0493-reverse-pairs](https://github.com/VIJAYKUMAR2435/-CrackYourPlacement/tree/master/0493-reverse-pairs) |
+| [0719-find-k-th-smallest-pair-distance](https://github.com/VIJAYKUMAR2435/-CrackYourPlacement/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0794-swim-in-rising-water](https://github.com/VIJAYKUMAR2435/-CrackYourPlacement/tree/master/0794-swim-in-rising-water) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/VIJAYKUMAR2435/-CrackYourPlacement/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 ## Bit Manipulation
@@ -150,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/VIJAYKUMAR2435/-CrackYourPlacement/tree/master/0451-sort-characters-by-frequency) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/VIJAYKUMAR2435/-CrackYourPlacement/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/VIJAYKUMAR2435/-CrackYourPlacement/tree/master/0628-maximum-product-of-three-numbers) |
+| [0719-find-k-th-smallest-pair-distance](https://github.com/VIJAYKUMAR2435/-CrackYourPlacement/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0778-reorganize-string](https://github.com/VIJAYKUMAR2435/-CrackYourPlacement/tree/master/0778-reorganize-string) |
 | [0887-minimum-cost-to-hire-k-workers](https://github.com/VIJAYKUMAR2435/-CrackYourPlacement/tree/master/0887-minimum-cost-to-hire-k-workers) |
 | [0948-sort-an-array](https://github.com/VIJAYKUMAR2435/-CrackYourPlacement/tree/master/0948-sort-an-array) |
