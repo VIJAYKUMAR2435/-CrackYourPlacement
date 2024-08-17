@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/VIJAYKUMAR2435/-CrackYourPlacement/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/VIJAYKUMAR2435/-CrackYourPlacement/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/VIJAYKUMAR2435/-CrackYourPlacement/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
+| [0410-split-array-largest-sum](https://github.com/VIJAYKUMAR2435/-CrackYourPlacement/tree/master/0410-split-array-largest-sum) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/VIJAYKUMAR2435/-CrackYourPlacement/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/VIJAYKUMAR2435/-CrackYourPlacement/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0474-ones-and-zeroes](https://github.com/VIJAYKUMAR2435/-CrackYourPlacement/tree/master/0474-ones-and-zeroes) |
@@ -126,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0315-count-of-smaller-numbers-after-self](https://github.com/VIJAYKUMAR2435/-CrackYourPlacement/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0327-count-of-range-sum](https://github.com/VIJAYKUMAR2435/-CrackYourPlacement/tree/master/0327-count-of-range-sum) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/VIJAYKUMAR2435/-CrackYourPlacement/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0410-split-array-largest-sum](https://github.com/VIJAYKUMAR2435/-CrackYourPlacement/tree/master/0410-split-array-largest-sum) |
 | [0493-reverse-pairs](https://github.com/VIJAYKUMAR2435/-CrackYourPlacement/tree/master/0493-reverse-pairs) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/VIJAYKUMAR2435/-CrackYourPlacement/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0794-swim-in-rising-water](https://github.com/VIJAYKUMAR2435/-CrackYourPlacement/tree/master/0794-swim-in-rising-water) |
@@ -184,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0300-longest-increasing-subsequence](https://github.com/VIJAYKUMAR2435/-CrackYourPlacement/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/VIJAYKUMAR2435/-CrackYourPlacement/tree/master/0322-coin-change) |
 | [0338-counting-bits](https://github.com/VIJAYKUMAR2435/-CrackYourPlacement/tree/master/0338-counting-bits) |
+| [0410-split-array-largest-sum](https://github.com/VIJAYKUMAR2435/-CrackYourPlacement/tree/master/0410-split-array-largest-sum) |
 | [0474-ones-and-zeroes](https://github.com/VIJAYKUMAR2435/-CrackYourPlacement/tree/master/0474-ones-and-zeroes) |
 | [0902-minimum-number-of-refueling-stops](https://github.com/VIJAYKUMAR2435/-CrackYourPlacement/tree/master/0902-minimum-number-of-refueling-stops) |
 | [1196-filling-bookcase-shelves](https://github.com/VIJAYKUMAR2435/-CrackYourPlacement/tree/master/1196-filling-bookcase-shelves) |
@@ -283,6 +286,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/VIJAYKUMAR2435/-CrackYourPlacement/tree/master/0011-container-with-most-water) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/VIJAYKUMAR2435/-CrackYourPlacement/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0410-split-array-largest-sum](https://github.com/VIJAYKUMAR2435/-CrackYourPlacement/tree/master/0410-split-array-largest-sum) |
 | [0624-maximum-distance-in-arrays](https://github.com/VIJAYKUMAR2435/-CrackYourPlacement/tree/master/0624-maximum-distance-in-arrays) |
 | [0680-valid-palindrome-ii](https://github.com/VIJAYKUMAR2435/-CrackYourPlacement/tree/master/0680-valid-palindrome-ii) |
 | [0778-reorganize-string](https://github.com/VIJAYKUMAR2435/-CrackYourPlacement/tree/master/0778-reorganize-string) |
@@ -651,6 +655,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/VIJAYKUMAR2435/-CrackYourPlacement/tree/master/0303-range-sum-query-immutable) |
+| [0410-split-array-largest-sum](https://github.com/VIJAYKUMAR2435/-CrackYourPlacement/tree/master/0410-split-array-largest-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/VIJAYKUMAR2435/-CrackYourPlacement/tree/master/0560-subarray-sum-equals-k) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/VIJAYKUMAR2435/-CrackYourPlacement/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 ## Sliding Window
