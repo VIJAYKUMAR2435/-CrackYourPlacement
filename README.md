@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/VIJAYKUMAR2435/-CrackYourPlacement/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/VIJAYKUMAR2435/-CrackYourPlacement/tree/master/0049-group-anagrams) |
 | [0054-spiral-matrix](https://github.com/VIJAYKUMAR2435/-CrackYourPlacement/tree/master/0054-spiral-matrix) |
+| [0057-insert-interval](https://github.com/VIJAYKUMAR2435/-CrackYourPlacement/tree/master/0057-insert-interval) |
 | [0063-unique-paths-ii](https://github.com/VIJAYKUMAR2435/-CrackYourPlacement/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/VIJAYKUMAR2435/-CrackYourPlacement/tree/master/0064-minimum-path-sum) |
 | [0075-sort-colors](https://github.com/VIJAYKUMAR2435/-CrackYourPlacement/tree/master/0075-sort-colors) |
