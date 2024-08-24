@@ -151,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/VIJAYKUMAR2435/-CrackYourPlacement/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/VIJAYKUMAR2435/-CrackYourPlacement/tree/master/0287-find-the-duplicate-number) |
 | [0338-counting-bits](https://github.com/VIJAYKUMAR2435/-CrackYourPlacement/tree/master/0338-counting-bits) |
+| [0371-sum-of-two-integers](https://github.com/VIJAYKUMAR2435/-CrackYourPlacement/tree/master/0371-sum-of-two-integers) |
 | [0476-number-complement](https://github.com/VIJAYKUMAR2435/-CrackYourPlacement/tree/master/0476-number-complement) |
 | [0526-beautiful-arrangement](https://github.com/VIJAYKUMAR2435/-CrackYourPlacement/tree/master/0526-beautiful-arrangement) |
 ## Sorting
@@ -528,6 +529,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0264-ugly-number-ii](https://github.com/VIJAYKUMAR2435/-CrackYourPlacement/tree/master/0264-ugly-number-ii) |
 | [0268-missing-number](https://github.com/VIJAYKUMAR2435/-CrackYourPlacement/tree/master/0268-missing-number) |
 | [0273-integer-to-english-words](https://github.com/VIJAYKUMAR2435/-CrackYourPlacement/tree/master/0273-integer-to-english-words) |
+| [0371-sum-of-two-integers](https://github.com/VIJAYKUMAR2435/-CrackYourPlacement/tree/master/0371-sum-of-two-integers) |
 | [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/VIJAYKUMAR2435/-CrackYourPlacement/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/VIJAYKUMAR2435/-CrackYourPlacement/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0564-find-the-closest-palindrome](https://github.com/VIJAYKUMAR2435/-CrackYourPlacement/tree/master/0564-find-the-closest-palindrome) |
