@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0057-insert-interval](https://github.com/VIJAYKUMAR2435/-CrackYourPlacement/tree/master/0057-insert-interval) |
 | [0063-unique-paths-ii](https://github.com/VIJAYKUMAR2435/-CrackYourPlacement/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/VIJAYKUMAR2435/-CrackYourPlacement/tree/master/0064-minimum-path-sum) |
+| [0073-set-matrix-zeroes](https://github.com/VIJAYKUMAR2435/-CrackYourPlacement/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/VIJAYKUMAR2435/-CrackYourPlacement/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/VIJAYKUMAR2435/-CrackYourPlacement/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/VIJAYKUMAR2435/-CrackYourPlacement/tree/master/0079-word-search) |
@@ -227,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/VIJAYKUMAR2435/-CrackYourPlacement/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0012-integer-to-roman](https://github.com/VIJAYKUMAR2435/-CrackYourPlacement/tree/master/0012-integer-to-roman) |
 | [0049-group-anagrams](https://github.com/VIJAYKUMAR2435/-CrackYourPlacement/tree/master/0049-group-anagrams) |
+| [0073-set-matrix-zeroes](https://github.com/VIJAYKUMAR2435/-CrackYourPlacement/tree/master/0073-set-matrix-zeroes) |
 | [0141-linked-list-cycle](https://github.com/VIJAYKUMAR2435/-CrackYourPlacement/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/VIJAYKUMAR2435/-CrackYourPlacement/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/VIJAYKUMAR2435/-CrackYourPlacement/tree/master/0169-majority-element) |
@@ -497,6 +499,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/VIJAYKUMAR2435/-CrackYourPlacement/tree/master/0054-spiral-matrix) |
 | [0063-unique-paths-ii](https://github.com/VIJAYKUMAR2435/-CrackYourPlacement/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/VIJAYKUMAR2435/-CrackYourPlacement/tree/master/0064-minimum-path-sum) |
+| [0073-set-matrix-zeroes](https://github.com/VIJAYKUMAR2435/-CrackYourPlacement/tree/master/0073-set-matrix-zeroes) |
 | [0079-word-search](https://github.com/VIJAYKUMAR2435/-CrackYourPlacement/tree/master/0079-word-search) |
 | [0200-number-of-islands](https://github.com/VIJAYKUMAR2435/-CrackYourPlacement/tree/master/0200-number-of-islands) |
 | [0289-game-of-life](https://github.com/VIJAYKUMAR2435/-CrackYourPlacement/tree/master/0289-game-of-life) |
