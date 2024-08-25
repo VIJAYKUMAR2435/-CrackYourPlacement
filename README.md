@@ -100,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/VIJAYKUMAR2435/-CrackYourPlacement/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/VIJAYKUMAR2435/-CrackYourPlacement/tree/master/2306-create-binary-tree-from-descriptions) |
 | [2331-intersection-of-multiple-arrays](https://github.com/VIJAYKUMAR2435/-CrackYourPlacement/tree/master/2331-intersection-of-multiple-arrays) |
+| [2332-count-lattice-points-inside-a-circle](https://github.com/VIJAYKUMAR2435/-CrackYourPlacement/tree/master/2332-count-lattice-points-inside-a-circle) |
 | [2472-build-a-matrix-with-conditions](https://github.com/VIJAYKUMAR2435/-CrackYourPlacement/tree/master/2472-build-a-matrix-with-conditions) |
 | [2502-sort-the-people](https://github.com/VIJAYKUMAR2435/-CrackYourPlacement/tree/master/2502-sort-the-people) |
 | [2727-number-of-senior-citizens](https://github.com/VIJAYKUMAR2435/-CrackYourPlacement/tree/master/2727-number-of-senior-citizens) |
@@ -256,6 +257,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2163-kth-distinct-string-in-an-array](https://github.com/VIJAYKUMAR2435/-CrackYourPlacement/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/VIJAYKUMAR2435/-CrackYourPlacement/tree/master/2306-create-binary-tree-from-descriptions) |
 | [2331-intersection-of-multiple-arrays](https://github.com/VIJAYKUMAR2435/-CrackYourPlacement/tree/master/2331-intersection-of-multiple-arrays) |
+| [2332-count-lattice-points-inside-a-circle](https://github.com/VIJAYKUMAR2435/-CrackYourPlacement/tree/master/2332-count-lattice-points-inside-a-circle) |
 | [2502-sort-the-people](https://github.com/VIJAYKUMAR2435/-CrackYourPlacement/tree/master/2502-sort-the-people) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/VIJAYKUMAR2435/-CrackYourPlacement/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 ## Tree
@@ -554,6 +556,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1240-stone-game-ii](https://github.com/VIJAYKUMAR2435/-CrackYourPlacement/tree/master/1240-stone-game-ii) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/VIJAYKUMAR2435/-CrackYourPlacement/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1733-maximum-number-of-visible-points](https://github.com/VIJAYKUMAR2435/-CrackYourPlacement/tree/master/1733-maximum-number-of-visible-points) |
+| [2332-count-lattice-points-inside-a-circle](https://github.com/VIJAYKUMAR2435/-CrackYourPlacement/tree/master/2332-count-lattice-points-inside-a-circle) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -625,6 +628,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1014-k-closest-points-to-origin](https://github.com/VIJAYKUMAR2435/-CrackYourPlacement/tree/master/1014-k-closest-points-to-origin) |
 | [1733-maximum-number-of-visible-points](https://github.com/VIJAYKUMAR2435/-CrackYourPlacement/tree/master/1733-maximum-number-of-visible-points) |
+| [2332-count-lattice-points-inside-a-circle](https://github.com/VIJAYKUMAR2435/-CrackYourPlacement/tree/master/2332-count-lattice-points-inside-a-circle) |
 ## Graph
 |  |
 | ------- |
@@ -779,4 +783,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1240-stone-game-ii](https://github.com/VIJAYKUMAR2435/-CrackYourPlacement/tree/master/1240-stone-game-ii) |
+## Enumeration
+|  |
+| ------- |
+| [2332-count-lattice-points-inside-a-circle](https://github.com/VIJAYKUMAR2435/-CrackYourPlacement/tree/master/2332-count-lattice-points-inside-a-circle) |
 <!---LeetCode Topics End-->
