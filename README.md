@@ -224,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1511-count-number-of-teams](https://github.com/VIJAYKUMAR2435/-CrackYourPlacement/tree/master/1511-count-number-of-teams) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/VIJAYKUMAR2435/-CrackYourPlacement/tree/master/1756-minimum-deletions-to-make-string-balanced) |
 | [2067-maximum-number-of-points-with-cost](https://github.com/VIJAYKUMAR2435/-CrackYourPlacement/tree/master/2067-maximum-number-of-points-with-cost) |
+| [2464-time-needed-to-rearrange-a-binary-string](https://github.com/VIJAYKUMAR2435/-CrackYourPlacement/tree/master/2464-time-needed-to-rearrange-a-binary-string) |
 ## Hash Table
 |  |
 | ------- |
@@ -375,6 +376,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2163-kth-distinct-string-in-an-array](https://github.com/VIJAYKUMAR2435/-CrackYourPlacement/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/VIJAYKUMAR2435/-CrackYourPlacement/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/VIJAYKUMAR2435/-CrackYourPlacement/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
+| [2464-time-needed-to-rearrange-a-binary-string](https://github.com/VIJAYKUMAR2435/-CrackYourPlacement/tree/master/2464-time-needed-to-rearrange-a-binary-string) |
 | [2502-sort-the-people](https://github.com/VIJAYKUMAR2435/-CrackYourPlacement/tree/master/2502-sort-the-people) |
 | [2727-number-of-senior-citizens](https://github.com/VIJAYKUMAR2435/-CrackYourPlacement/tree/master/2727-number-of-senior-citizens) |
 | [3235-minimum-cost-to-convert-string-i](https://github.com/VIJAYKUMAR2435/-CrackYourPlacement/tree/master/3235-minimum-cost-to-convert-string-i) |
@@ -481,6 +483,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0592-fraction-addition-and-subtraction](https://github.com/VIJAYKUMAR2435/-CrackYourPlacement/tree/master/0592-fraction-addition-and-subtraction) |
 | [0874-backspace-string-compare](https://github.com/VIJAYKUMAR2435/-CrackYourPlacement/tree/master/0874-backspace-string-compare) |
 | [0921-spiral-matrix-iii](https://github.com/VIJAYKUMAR2435/-CrackYourPlacement/tree/master/0921-spiral-matrix-iii) |
+| [2464-time-needed-to-rearrange-a-binary-string](https://github.com/VIJAYKUMAR2435/-CrackYourPlacement/tree/master/2464-time-needed-to-rearrange-a-binary-string) |
 ## Breadth-First Search
 |  |
 | ------- |
