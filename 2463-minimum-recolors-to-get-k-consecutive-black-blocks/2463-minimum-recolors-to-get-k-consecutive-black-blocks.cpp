@@ -2,36 +2,24 @@ class Solution {
 public:
      
     int minimumRecolors(string blocks, int k) {
-      int i = 0;
-    int j = 0;
-    int c = 0;  // Count of 'w' in the current window
-    int n = blocks.size();
-    int mini = INT_MAX;
-
-    while (j < n) {
-        // Count 'w' in the current window
-        if (blocks[j] == 'W') {
+     int i=0;
+     int j=0;
+     int c=0;
+     int mini=INT_MAX;
+     int n=blocks.size();
+     while(j<n){
+        if(blocks[j]=='W'){
             c++;
         }
-
-        // When the window size is exactly k
-        if (j - i + 1 == k) {
-            mini = min(mini, c);  // Update the minimum recolors needed
-            
-            // If the leftmost block is 'w', decrease the count
-            if (blocks[i] == 'W') {
+        if(j-i+1==k){
+            mini=min(mini,c);
+            if(blocks[i]=='W'){
                 c--;
-              
             }
-            // Slide the window
-           i++;
+            i++;
         }
-       
-
-        // Expand the window
         j++;
-    }
-
-    return mini;  // Return the minimum recolors required
+     }
+     return mini;
     }
 };
