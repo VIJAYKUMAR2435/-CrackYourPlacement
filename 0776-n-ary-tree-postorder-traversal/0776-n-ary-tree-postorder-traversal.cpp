@@ -22,18 +22,22 @@ class Solution {
 public:
 
     vector<int> postorder(Node* root) {
-         if(root==NULL) return {};
-    vector<int> res;
-    stack<Node*> stk;
-    stk.push(root);
-    while(!stk.empty())
-    {
-        Node* temp=stk.top();
-        stk.pop();
-        for(int i=0;i<temp->children.size();i++) stk.push(temp->children[i]);
-        res.push_back(temp->val);
-    }
-    reverse(res.begin(), res.end());
-    return res;
+        if(!root){
+            return {};
+        }
+       vector<int>res;
+       stack<Node*>st;
+       st.push(root);
+       while(!st.empty()){
+          Node*temp=st.top();
+          st.pop();
+          for(int i=0;i<temp->children.size();i++){
+            st.push(temp->children[i]);
+           
+          }
+           res.push_back(temp->val);
+       }
+       reverse(res.begin(),res.end());
+       return res;
     }
 };
