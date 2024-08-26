@@ -491,6 +491,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0874-backspace-string-compare](https://github.com/VIJAYKUMAR2435/-CrackYourPlacement/tree/master/0874-backspace-string-compare) |
 | [0921-spiral-matrix-iii](https://github.com/VIJAYKUMAR2435/-CrackYourPlacement/tree/master/0921-spiral-matrix-iii) |
 | [2464-time-needed-to-rearrange-a-binary-string](https://github.com/VIJAYKUMAR2435/-CrackYourPlacement/tree/master/2464-time-needed-to-rearrange-a-binary-string) |
+| [3511-find-the-winning-player-in-coin-game](https://github.com/VIJAYKUMAR2435/-CrackYourPlacement/tree/master/3511-find-the-winning-player-in-coin-game) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -572,6 +573,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/VIJAYKUMAR2435/-CrackYourPlacement/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1733-maximum-number-of-visible-points](https://github.com/VIJAYKUMAR2435/-CrackYourPlacement/tree/master/1733-maximum-number-of-visible-points) |
 | [2332-count-lattice-points-inside-a-circle](https://github.com/VIJAYKUMAR2435/-CrackYourPlacement/tree/master/2332-count-lattice-points-inside-a-circle) |
+| [3511-find-the-winning-player-in-coin-game](https://github.com/VIJAYKUMAR2435/-CrackYourPlacement/tree/master/3511-find-the-winning-player-in-coin-game) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -801,6 +803,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1240-stone-game-ii](https://github.com/VIJAYKUMAR2435/-CrackYourPlacement/tree/master/1240-stone-game-ii) |
+| [3511-find-the-winning-player-in-coin-game](https://github.com/VIJAYKUMAR2435/-CrackYourPlacement/tree/master/3511-find-the-winning-player-in-coin-game) |
 ## Enumeration
 |  |
 | ------- |
