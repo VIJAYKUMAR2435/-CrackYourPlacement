@@ -160,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0371-sum-of-two-integers](https://github.com/VIJAYKUMAR2435/-CrackYourPlacement/tree/master/0371-sum-of-two-integers) |
 | [0476-number-complement](https://github.com/VIJAYKUMAR2435/-CrackYourPlacement/tree/master/0476-number-complement) |
 | [0526-beautiful-arrangement](https://github.com/VIJAYKUMAR2435/-CrackYourPlacement/tree/master/0526-beautiful-arrangement) |
+| [3508-number-of-bit-changes-to-make-two-integers-equal](https://github.com/VIJAYKUMAR2435/-CrackYourPlacement/tree/master/3508-number-of-bit-changes-to-make-two-integers-equal) |
 ## Sorting
 |  |
 | ------- |
