@@ -107,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2502-sort-the-people](https://github.com/VIJAYKUMAR2435/-CrackYourPlacement/tree/master/2502-sort-the-people) |
 | [2727-number-of-senior-citizens](https://github.com/VIJAYKUMAR2435/-CrackYourPlacement/tree/master/2727-number-of-senior-citizens) |
 | [3235-minimum-cost-to-convert-string-i](https://github.com/VIJAYKUMAR2435/-CrackYourPlacement/tree/master/3235-minimum-cost-to-convert-string-i) |
+| [3522-find-the-power-of-k-size-subarrays-i](https://github.com/VIJAYKUMAR2435/-CrackYourPlacement/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
 ## Two Pointers
 |  |
 | ------- |
@@ -769,6 +770,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1733-maximum-number-of-visible-points](https://github.com/VIJAYKUMAR2435/-CrackYourPlacement/tree/master/1733-maximum-number-of-visible-points) |
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/VIJAYKUMAR2435/-CrackYourPlacement/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/VIJAYKUMAR2435/-CrackYourPlacement/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
+| [3522-find-the-power-of-k-size-subarrays-i](https://github.com/VIJAYKUMAR2435/-CrackYourPlacement/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
 | [3543-count-substrings-that-satisfy-k-constraint-i](https://github.com/VIJAYKUMAR2435/-CrackYourPlacement/tree/master/3543-count-substrings-that-satisfy-k-constraint-i) |
 ## Monotonic Queue
 |  |
