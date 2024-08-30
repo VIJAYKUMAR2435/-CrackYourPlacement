@@ -10,7 +10,7 @@
  */
 class Solution {
 public:
-ListNode*merge(ListNode*a,ListNode*b){
+ListNode*mergetwoLists(ListNode*a,ListNode*b){
     if(!a){
         return b;
     }
@@ -18,25 +18,25 @@ ListNode*merge(ListNode*a,ListNode*b){
         return a;
     }
     if(a->val<=b->val){
-        a->next=merge(a->next,b);
+        a->next=mergetwoLists(a->next,b);
         return a;
     }
-    else{
-        b->next=merge(a,b->next);
+    if(b->val<=a->val){
+        b->next=mergetwoLists(a,b->next);
         return b;
     }
     return NULL;
 }
-    ListNode* mergeKLists(vector<ListNode*>& v) {
-        if(v.size()==0){
+    ListNode* mergeKLists(vector<ListNode*>& lists) {
+        if(lists.size()==0){
             return 0;
         }
-        if(v.size()==1){
-            return v[0];
+        if(lists.size()==1){
+            return lists[0];
         }
-        for(int i=1;i<v.size();i++){
-            v[0]=merge(v[0],v[i]);
+        for(int i=1;i<lists.size();i++){
+            lists[0]=mergetwoLists(lists[0],lists[i]);
         }
-        return v[0];
+        return lists[0];
     }
 };
