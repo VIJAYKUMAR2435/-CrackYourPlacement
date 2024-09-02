@@ -96,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1741-sort-array-by-increasing-frequency](https://github.com/VIJAYKUMAR2435/-CrackYourPlacement/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1792-find-the-most-competitive-subsequence](https://github.com/VIJAYKUMAR2435/-CrackYourPlacement/tree/master/1792-find-the-most-competitive-subsequence) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/VIJAYKUMAR2435/-CrackYourPlacement/tree/master/1878-check-if-array-is-sorted-and-rotated) |
+| [2006-find-the-student-that-will-replace-the-chalk](https://github.com/VIJAYKUMAR2435/-CrackYourPlacement/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2035-count-sub-islands](https://github.com/VIJAYKUMAR2435/-CrackYourPlacement/tree/master/2035-count-sub-islands) |
 | [2067-maximum-number-of-points-with-cost](https://github.com/VIJAYKUMAR2435/-CrackYourPlacement/tree/master/2067-maximum-number-of-points-with-cost) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/VIJAYKUMAR2435/-CrackYourPlacement/tree/master/2132-convert-1d-array-into-2d-array) |
@@ -148,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0719-find-k-th-smallest-pair-distance](https://github.com/VIJAYKUMAR2435/-CrackYourPlacement/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0794-swim-in-rising-water](https://github.com/VIJAYKUMAR2435/-CrackYourPlacement/tree/master/0794-swim-in-rising-water) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/VIJAYKUMAR2435/-CrackYourPlacement/tree/master/1615-range-sum-of-sorted-subarray-sums) |
+| [2006-find-the-student-that-will-replace-the-chalk](https://github.com/VIJAYKUMAR2435/-CrackYourPlacement/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -500,6 +502,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0592-fraction-addition-and-subtraction](https://github.com/VIJAYKUMAR2435/-CrackYourPlacement/tree/master/0592-fraction-addition-and-subtraction) |
 | [0874-backspace-string-compare](https://github.com/VIJAYKUMAR2435/-CrackYourPlacement/tree/master/0874-backspace-string-compare) |
 | [0921-spiral-matrix-iii](https://github.com/VIJAYKUMAR2435/-CrackYourPlacement/tree/master/0921-spiral-matrix-iii) |
+| [2006-find-the-student-that-will-replace-the-chalk](https://github.com/VIJAYKUMAR2435/-CrackYourPlacement/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/VIJAYKUMAR2435/-CrackYourPlacement/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2464-time-needed-to-rearrange-a-binary-string](https://github.com/VIJAYKUMAR2435/-CrackYourPlacement/tree/master/2464-time-needed-to-rearrange-a-binary-string) |
 | [3511-find-the-winning-player-in-coin-game](https://github.com/VIJAYKUMAR2435/-CrackYourPlacement/tree/master/3511-find-the-winning-player-in-coin-game) |
@@ -768,6 +771,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/VIJAYKUMAR2435/-CrackYourPlacement/tree/master/0560-subarray-sum-equals-k) |
 | [1240-stone-game-ii](https://github.com/VIJAYKUMAR2435/-CrackYourPlacement/tree/master/1240-stone-game-ii) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/VIJAYKUMAR2435/-CrackYourPlacement/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
+| [2006-find-the-student-that-will-replace-the-chalk](https://github.com/VIJAYKUMAR2435/-CrackYourPlacement/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 ## Sliding Window
 |  |
 | ------- |
